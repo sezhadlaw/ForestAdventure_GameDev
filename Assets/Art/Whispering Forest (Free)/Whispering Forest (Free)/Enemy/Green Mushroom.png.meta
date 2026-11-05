@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: c47f89041f093cc45bc1458d7d4af0d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5367447731737072454
+    second: Green Mushroom_0
+  - first:
+      213: 1455785598684690315
+    second: Green Mushroom_1
+  - first:
+      213: -2083713753077454013
+    second: Green Mushroom_2
+  - first:
+      213: 7020719622650528190
+    second: Green Mushroom_3
+  - first:
+      213: -5425252992727237618
+    second: Green Mushroom_4
+  - first:
+      213: -5702026768691978756
+    second: Green Mushroom_5
+  - first:
+      213: 4872488086772063962
+    second: Green Mushroom_6
+  - first:
+      213: 5200236904225433996
+    second: Green Mushroom_7
+  - first:
+      213: 8678876461904948901
+    second: Green Mushroom_8
+  - first:
+      213: -8583649316589314231
+    second: Green Mushroom_9
+  - first:
+      213: 5806267656402276013
+    second: Green Mushroom_10
+  - first:
+      213: 7952256270167003594
+    second: Green Mushroom_11
+  - first:
+      213: -1179035063370294878
+    second: Green Mushroom_12
+  - first:
+      213: -7429528533497865488
+    second: Green Mushroom_13
+  - first:
+      213: -6170510020897727959
+    second: Green Mushroom_14
+  - first:
+      213: 7582337585335116356
+    second: Green Mushroom_15
+  - first:
+      213: 4505161483577357666
+    second: Green Mushroom_16
+  - first:
+      213: -4737058798170567633
+    second: Green Mushroom_17
+  - first:
+      213: 6706087469765221438
+    second: Green Mushroom_18
+  - first:
+      213: -8074343266019316931
+    second: Green Mushroom_19
+  - first:
+      213: -1257512752226843226
+    second: Green Mushroom_20
+  - first:
+      213: 7978840221004413936
+    second: Green Mushroom_21
+  - first:
+      213: -6338760670135403063
+    second: Green Mushroom_22
+  - first:
+      213: 5525013060016496708
+    second: Green Mushroom_23
+  - first:
+      213: 7278070079049541260
+    second: Green Mushroom_24
+  - first:
+      213: 8013906603553956821
+    second: Green Mushroom_25
+  - first:
+      213: 3934175157325772431
+    second: Green Mushroom_26
+  - first:
+      213: 3745598994851724614
+    second: Green Mushroom_27
+  - first:
+      213: 1908659705627987997
+    second: Green Mushroom_28
+  - first:
+      213: -5643759863831101841
+    second: Green Mushroom_29
+  - first:
+      213: 8494924311595773281
+    second: Green Mushroom_30
+  - first:
+      213: 4797897349145560801
+    second: Green Mushroom_31
+  - first:
+      213: 5105674688231670616
+    second: Green Mushroom_32
+  - first:
+      213: 7805363178443992795
+    second: Green Mushroom_33
+  - first:
+      213: 524191791721865041
+    second: Green Mushroom_34
+  - first:
+      213: 801029515912595691
+    second: Green Mushroom_35
+  - first:
+      213: 9214950234012993317
+    second: Green Mushroom_36
+  - first:
+      213: 7905126528553183840
+    second: Green Mushroom_37
+  - first:
+      213: -3720985235802367373
+    second: Green Mushroom_38
+  - first:
+      213: 1783053180432429759
+    second: Green Mushroom_39
+  - first:
+      213: 1319099714016423083
+    second: Green Mushroom_40
+  - first:
+      213: 1589392025518473911
+    second: Green Mushroom_41
+  - first:
+      213: -1475851602565921670
+    second: Green Mushroom_42
+  - first:
+      213: -3170220661170661503
+    second: Green Mushroom_43
+  - first:
+      213: 8320469895236753834
+    second: Green Mushroom_44
+  - first:
+      213: 5611358488285504804
+    second: Green Mushroom_45
+  - first:
+      213: 5139736432462654120
+    second: Green Mushroom_46
+  - first:
+      213: -1852908927479413959
+    second: Green Mushroom_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abce557d9bef285b0800000000000000
+      internalID: -5367447731737072454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87fab6f94df33410800000000000000
+      internalID: 1455785598684690315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34be83ea1692513e0800000000000000
+      internalID: -2083713753077454013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb103b7ac4b9e6160800000000000000
+      internalID: 7020719622650528190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3ed7b521a5b4b0800000000000000
+      internalID: -5425252992727237618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd98505dd45ed0b0800000000000000
+      internalID: -5702026768691978756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade1f50791e8e9340800000000000000
+      internalID: 4872488086772063962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89eb3099e3fa2840800000000000000
+      internalID: 5200236904225433996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aee751d820917870800000000000000
+      internalID: 8678876461904948901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f5b28bc60c0e880800000000000000
+      internalID: -8583649316589314231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae82baaba1049050800000000000000
+      internalID: 5806267656402276013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac15d22e1f61c5e60800000000000000
+      internalID: 7952256270167003594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9551e4bd933afe0800000000000000
+      internalID: -1179035063370294878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa1b30892305e890800000000000000
+      internalID: -7429528533497865488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 141
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a176924d1fd5aa0800000000000000
+      internalID: -6170510020897727959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 141
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4422ef46cdfd93960800000000000000
+      internalID: 7582337585335116356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 142
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265766cff7c858e30800000000000000
+      internalID: 4505161483577357666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 145
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c87eefe16924eb0800000000000000
+      internalID: -4737058798170567633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 167
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cdd0cf50fc01d50800000000000000
+      internalID: 6706087469765221438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 162
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3be95a449b22ff80800000000000000
+      internalID: -8074343266019316931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 141
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5cefe70da6c8ee0800000000000000
+      internalID: -1257512752226843226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb319448e88abe60800000000000000
+      internalID: 7978840221004413936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 141
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdbc5431c23808a0800000000000000
+      internalID: -6338760670135403063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 141
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4406da5fa1accac40800000000000000
+      internalID: 5525013060016496708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 141
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86a5201d26e00560800000000000000
+      internalID: 7278070079049541260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3adffa89d173f60800000000000000
+      internalID: 8013906603553956821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 141
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b190267ff89630800000000000000
+      internalID: 3934175157325772431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 141
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d7237d07a0bf330800000000000000
+      internalID: 3745598994851724614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 141
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10de07c3ebec7a10800000000000000
+      internalID: 1908659705627987997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 141
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e7db64e465da1b0800000000000000
+      internalID: -5643759863831101841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 141
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dee7247a804e570800000000000000
+      internalID: 8494924311595773281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e60c9cf73e859240800000000000000
+      internalID: 4797897349145560801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85380c2f3100bd640800000000000000
+      internalID: 5105674688231670616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 144
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde611ac478325c60800000000000000
+      internalID: 7805363178443992795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fd1c348ad464700800000000000000
+      internalID: 524191791721865041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c296c914dd1b00800000000000000
+      internalID: 801029515912595691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5274f393a6412ef70800000000000000
+      internalID: 9214950234012993317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_37
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aedeec1b6a4bd60800000000000000
+      internalID: 7905126528553183840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ad68584a76c5cc0800000000000000
+      internalID: -3720985235802367373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb23e4bab6daeb810800000000000000
+      internalID: 1783053180432429759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baca44573326e4210800000000000000
+      internalID: 1319099714016423083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b20ed150a7ae0610800000000000000
+      internalID: 1589392025518473911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a740edf69c8b48be0800000000000000
+      internalID: -1475851602565921670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187915fea1d1104d0800000000000000
+      internalID: -3170220661170661503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa91be5394f387370800000000000000
+      internalID: 8320469895236753834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42561a990dc8fdd40800000000000000
+      internalID: 5611358488285504804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae118cd03045740800000000000000
+      internalID: 5139736432462654120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green Mushroom_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 21
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338078c5252946e0800000000000000
+      internalID: -1852908927479413959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Green Mushroom_0: -5367447731737072454
+      Green Mushroom_1: 1455785598684690315
+      Green Mushroom_10: 5806267656402276013
+      Green Mushroom_11: 7952256270167003594
+      Green Mushroom_12: -1179035063370294878
+      Green Mushroom_13: -7429528533497865488
+      Green Mushroom_14: -6170510020897727959
+      Green Mushroom_15: 7582337585335116356
+      Green Mushroom_16: 4505161483577357666
+      Green Mushroom_17: -4737058798170567633
+      Green Mushroom_18: 6706087469765221438
+      Green Mushroom_19: -8074343266019316931
+      Green Mushroom_2: -2083713753077454013
+      Green Mushroom_20: -1257512752226843226
+      Green Mushroom_21: 7978840221004413936
+      Green Mushroom_22: -6338760670135403063
+      Green Mushroom_23: 5525013060016496708
+      Green Mushroom_24: 7278070079049541260
+      Green Mushroom_25: 8013906603553956821
+      Green Mushroom_26: 3934175157325772431
+      Green Mushroom_27: 3745598994851724614
+      Green Mushroom_28: 1908659705627987997
+      Green Mushroom_29: -5643759863831101841
+      Green Mushroom_3: 7020719622650528190
+      Green Mushroom_30: 8494924311595773281
+      Green Mushroom_31: 4797897349145560801
+      Green Mushroom_32: 5105674688231670616
+      Green Mushroom_33: 7805363178443992795
+      Green Mushroom_34: 524191791721865041
+      Green Mushroom_35: 801029515912595691
+      Green Mushroom_36: 9214950234012993317
+      Green Mushroom_37: 7905126528553183840
+      Green Mushroom_38: -3720985235802367373
+      Green Mushroom_39: 1783053180432429759
+      Green Mushroom_4: -5425252992727237618
+      Green Mushroom_40: 1319099714016423083
+      Green Mushroom_41: 1589392025518473911
+      Green Mushroom_42: -1475851602565921670
+      Green Mushroom_43: -3170220661170661503
+      Green Mushroom_44: 8320469895236753834
+      Green Mushroom_45: 5611358488285504804
+      Green Mushroom_46: 5139736432462654120
+      Green Mushroom_47: -1852908927479413959
+      Green Mushroom_5: -5702026768691978756
+      Green Mushroom_6: 4872488086772063962
+      Green Mushroom_7: 5200236904225433996
+      Green Mushroom_8: 8678876461904948901
+      Green Mushroom_9: -8583649316589314231
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

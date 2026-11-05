@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 0771b61529502b24cbc1eec2a9e42625
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2408080183376825382
+    second: Necklaces_0
+  - first:
+      213: -3211734081010330238
+    second: Necklaces_1
+  - first:
+      213: 4600689123896921514
+    second: Necklaces_2
+  - first:
+      213: -8524054940653806202
+    second: Necklaces_3
+  - first:
+      213: 2483344158072439088
+    second: Necklaces_4
+  - first:
+      213: 1130188618211150015
+    second: Necklaces_5
+  - first:
+      213: 3369704709842058934
+    second: Necklaces_6
+  - first:
+      213: -5194964788131467226
+    second: Necklaces_7
+  - first:
+      213: 4242062724268868910
+    second: Necklaces_8
+  - first:
+      213: -6948418470618830017
+    second: Necklaces_9
+  - first:
+      213: 4567039043031533091
+    second: Necklaces_10
+  - first:
+      213: 1218082279979955178
+    second: Necklaces_11
+  - first:
+      213: 2924986159145574897
+    second: Necklaces_12
+  - first:
+      213: -8042463936035952970
+    second: Necklaces_13
+  - first:
+      213: -108919813406258358
+    second: Necklaces_14
+  - first:
+      213: -830942422275528384
+    second: Necklaces_15
+  - first:
+      213: 4149752735920933221
+    second: Necklaces_16
+  - first:
+      213: 3493619913572780208
+    second: Necklaces_17
+  - first:
+      213: 6100768439580304844
+    second: Necklaces_18
+  - first:
+      213: -7508877339024593909
+    second: Necklaces_19
+  - first:
+      213: 5102208450333112716
+    second: Necklaces_20
+  - first:
+      213: 1398095680008734765
+    second: Necklaces_21
+  - first:
+      213: -2977901938404783145
+    second: Necklaces_22
+  - first:
+      213: -1931170282537382862
+    second: Necklaces_23
+  - first:
+      213: -944114742195511215
+    second: Necklaces_24
+  - first:
+      213: -8175989441014970488
+    second: Necklaces_25
+  - first:
+      213: -6077442888804854253
+    second: Necklaces_26
+  - first:
+      213: -5886889908910148607
+    second: Necklaces_27
+  - first:
+      213: 4666153315434633983
+    second: Necklaces_28
+  - first:
+      213: -9096848017337574340
+    second: Necklaces_29
+  - first:
+      213: 31939776832710697
+    second: Necklaces_30
+  - first:
+      213: 1405420281758341584
+    second: Necklaces_31
+  - first:
+      213: 3070393775055638526
+    second: Necklaces_32
+  - first:
+      213: -715536463825788638
+    second: Necklaces_33
+  - first:
+      213: 5759154169433129201
+    second: Necklaces_34
+  - first:
+      213: 5272231356811452494
+    second: Necklaces_35
+  - first:
+      213: -1997739802387405027
+    second: Necklaces_36
+  - first:
+      213: 302692671837625224
+    second: Necklaces_37
+  - first:
+      213: -4811532041042175175
+    second: Necklaces_38
+  - first:
+      213: 9121870658085422774
+    second: Necklaces_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necklaces_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3ba2fe4d7c49ed0800000000000000
+      internalID: -2408080183376825382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2851d5caed0ad63d0800000000000000
+      internalID: -3211734081010330238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad01e7f16ee8df30800000000000000
+      internalID: 4600689123896921514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d9a60a13974b980800000000000000
+      internalID: -8524054940653806202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03103fcba5c967220800000000000000
+      internalID: 2483344158072439088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84aad6f8c3faf00800000000000000
+      internalID: 1130188618211150015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6beb814849893ce20800000000000000
+      internalID: 3369704709842058934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620f2ce9c07c7e7b0800000000000000
+      internalID: -5194964788131467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25c8f28295deda30800000000000000
+      internalID: 4242062724268868910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 55
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b600c1732429f90800000000000000
+      internalID: -6948418470618830017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3260c3bffc1616f30800000000000000
+      internalID: 4567039043031533091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae33765416f77e010800000000000000
+      internalID: 1218082279979955178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f16ecc1a63a79820800000000000000
+      internalID: 2924986159145574897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6efa539ad636090800000000000000
+      internalID: -8042463936035952970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 36
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0becb10a0d7ef0800000000000000
+      internalID: -108919813406258358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 37
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e67bf446e774f0800000000000000
+      internalID: -830942422275528384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 37
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569c5428022e69930800000000000000
+      internalID: 4149752735920933221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b88cb82dc4db7030800000000000000
+      internalID: 3493619913572780208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 37
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5291292984aa450800000000000000
+      internalID: 6100768439580304844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 37
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c657908db1bc790800000000000000
+      internalID: -7508877339024593909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89f91c8d8faec640800000000000000
+      internalID: 5102208450333112716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28cde01d98076310800000000000000
+      internalID: 1398095680008734765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db8f61f6fd5ca6d0800000000000000
+      internalID: -2977901938404783145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_23
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c819c1cda1335e0800000000000000
+      internalID: -1931170282537382862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 18
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502a34e4a4d5e2f0800000000000000
+      internalID: -944114742195511215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88745f0fbec098e80800000000000000
+      internalID: -8175989441014970488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316101e64e598aba0800000000000000
+      internalID: -6077442888804854253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_27
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104349361d09d4ea0800000000000000
+      internalID: -5886889908910148607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa1ef1d7b181c040800000000000000
+      internalID: 4666153315434633983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_29
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c90e6ece081c180800000000000000
+      internalID: -9096848017337574340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928a15cce09717000800000000000000
+      internalID: 31939776832710697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9d55ecc4e018310800000000000000
+      internalID: 1405420281758341584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_32
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff03caeeda3c9a20800000000000000
+      internalID: 3070393775055638526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_33
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22123d19067e116f0800000000000000
+      internalID: -715536463825788638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_34
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f085cb2430acef40800000000000000
+      internalID: 5759154169433129201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e402c6c4c7aba2940800000000000000
+      internalID: 5272231356811452494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_36
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d172a05fb3a9644e0800000000000000
+      internalID: -1997739802387405027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_37
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bdefc9161633400800000000000000
+      internalID: 302692671837625224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_38
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b554ce9110a3db0800000000000000
+      internalID: -4811532041042175175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklaces_39
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68d36a805679e70800000000000000
+      internalID: 9121870658085422774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Necklaces_0: -2408080183376825382
+      Necklaces_1: -3211734081010330238
+      Necklaces_10: 4567039043031533091
+      Necklaces_11: 1218082279979955178
+      Necklaces_12: 2924986159145574897
+      Necklaces_13: -8042463936035952970
+      Necklaces_14: -108919813406258358
+      Necklaces_15: -830942422275528384
+      Necklaces_16: 4149752735920933221
+      Necklaces_17: 3493619913572780208
+      Necklaces_18: 6100768439580304844
+      Necklaces_19: -7508877339024593909
+      Necklaces_2: 4600689123896921514
+      Necklaces_20: 5102208450333112716
+      Necklaces_21: 1398095680008734765
+      Necklaces_22: -2977901938404783145
+      Necklaces_23: -1931170282537382862
+      Necklaces_24: -944114742195511215
+      Necklaces_25: -8175989441014970488
+      Necklaces_26: -6077442888804854253
+      Necklaces_27: -5886889908910148607
+      Necklaces_28: 4666153315434633983
+      Necklaces_29: -9096848017337574340
+      Necklaces_3: -8524054940653806202
+      Necklaces_30: 31939776832710697
+      Necklaces_31: 1405420281758341584
+      Necklaces_32: 3070393775055638526
+      Necklaces_33: -715536463825788638
+      Necklaces_34: 5759154169433129201
+      Necklaces_35: 5272231356811452494
+      Necklaces_36: -1997739802387405027
+      Necklaces_37: 302692671837625224
+      Necklaces_38: -4811532041042175175
+      Necklaces_39: 9121870658085422774
+      Necklaces_4: 2483344158072439088
+      Necklaces_5: 1130188618211150015
+      Necklaces_6: 3369704709842058934
+      Necklaces_7: -5194964788131467226
+      Necklaces_8: 4242062724268868910
+      Necklaces_9: -6948418470618830017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

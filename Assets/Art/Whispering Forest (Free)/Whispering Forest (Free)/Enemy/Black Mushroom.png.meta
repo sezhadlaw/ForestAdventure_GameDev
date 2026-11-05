@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 19a339455ec098b49ad6eaf90a1f0dd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 714622182140127381
+    second: Black Mushroom_0
+  - first:
+      213: 6652505807991099684
+    second: Black Mushroom_1
+  - first:
+      213: -2216371419123371443
+    second: Black Mushroom_2
+  - first:
+      213: -2606522463074976714
+    second: Black Mushroom_3
+  - first:
+      213: 7581334439828343477
+    second: Black Mushroom_4
+  - first:
+      213: -2523737510035435457
+    second: Black Mushroom_5
+  - first:
+      213: -5917007346893561504
+    second: Black Mushroom_6
+  - first:
+      213: -2582482696429111492
+    second: Black Mushroom_7
+  - first:
+      213: -2754068625046893616
+    second: Black Mushroom_8
+  - first:
+      213: 6201862382011066606
+    second: Black Mushroom_9
+  - first:
+      213: -5553598303081065617
+    second: Black Mushroom_10
+  - first:
+      213: 7729574575380716177
+    second: Black Mushroom_11
+  - first:
+      213: -1090791306070043
+    second: Black Mushroom_12
+  - first:
+      213: -1231778458752243129
+    second: Black Mushroom_13
+  - first:
+      213: -2087961423411487255
+    second: Black Mushroom_14
+  - first:
+      213: 8332316860433505907
+    second: Black Mushroom_15
+  - first:
+      213: -9024960290025630461
+    second: Black Mushroom_16
+  - first:
+      213: 6097331559483692172
+    second: Black Mushroom_17
+  - first:
+      213: 3757638173807685937
+    second: Black Mushroom_18
+  - first:
+      213: -4611539170304287891
+    second: Black Mushroom_19
+  - first:
+      213: -2778090367534315535
+    second: Black Mushroom_20
+  - first:
+      213: -5174587106335450662
+    second: Black Mushroom_21
+  - first:
+      213: 4205104358416126394
+    second: Black Mushroom_22
+  - first:
+      213: -7454969654482822134
+    second: Black Mushroom_23
+  - first:
+      213: 8444879216404220763
+    second: Black Mushroom_24
+  - first:
+      213: 5882414577872063131
+    second: Black Mushroom_25
+  - first:
+      213: -3956752573310279054
+    second: Black Mushroom_26
+  - first:
+      213: 5059129255386869739
+    second: Black Mushroom_27
+  - first:
+      213: -2538738304749470916
+    second: Black Mushroom_28
+  - first:
+      213: 1220170877153792526
+    second: Black Mushroom_29
+  - first:
+      213: -23167129316977382
+    second: Black Mushroom_30
+  - first:
+      213: 8350042824589775697
+    second: Black Mushroom_31
+  - first:
+      213: -278970658324193673
+    second: Black Mushroom_32
+  - first:
+      213: 5957266071964643160
+    second: Black Mushroom_33
+  - first:
+      213: 3907505758593925428
+    second: Black Mushroom_34
+  - first:
+      213: 5001272269234401126
+    second: Black Mushroom_35
+  - first:
+      213: 2355687934996748658
+    second: Black Mushroom_36
+  - first:
+      213: 5574745692147988150
+    second: Black Mushroom_37
+  - first:
+      213: -5213715034625533433
+    second: Black Mushroom_38
+  - first:
+      213: 6206143171829658151
+    second: Black Mushroom_39
+  - first:
+      213: -1472177566153701278
+    second: Black Mushroom_40
+  - first:
+      213: -8779593080183967758
+    second: Black Mushroom_41
+  - first:
+      213: -4183961687656767768
+    second: Black Mushroom_42
+  - first:
+      213: 8926961925812489300
+    second: Black Mushroom_43
+  - first:
+      213: 726886034517373375
+    second: Black Mushroom_44
+  - first:
+      213: -1680301341184051834
+    second: Black Mushroom_45
+  - first:
+      213: 6050736147128490567
+    second: Black Mushroom_46
+  - first:
+      213: 2746665043793494364
+    second: Black Mushroom_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Black Mushroom_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598a313a619dae900800000000000000
+      internalID: 714622182140127381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421588f29c2725c50800000000000000
+      internalID: 6652505807991099684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b2d8efeddd31e0800000000000000
+      internalID: -2216371419123371443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cf65931a5c3dbd0800000000000000
+      internalID: -2606522463074976714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4761618f463960800000000000000
+      internalID: 7581334439828343477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_5
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3052002b12e9fcd0800000000000000
+      internalID: -2523737510035435457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_6
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061680bea2192eda0800000000000000
+      internalID: -5917007346893561504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37ffb09bad292cd0800000000000000
+      internalID: -2582482696429111492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db080d5d2597c9d0800000000000000
+      internalID: -2754068625046893616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8a0a14af0711650800000000000000
+      internalID: 6201862382011066606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6314af74c7ade2b0800000000000000
+      internalID: -5553598303081065617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_11
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a557e8f17f44b60800000000000000
+      internalID: 7729574575380716177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e77dab5eef1cfff0800000000000000
+      internalID: -1090791306070043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 201
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a281c9408d7eee0800000000000000
+      internalID: -1231778458752243129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 141
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edd6dcd5221603e0800000000000000
+      internalID: -2087961423411487255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 141
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e132eb90652a370800000000000000
+      internalID: 8332316860433505907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 142
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3051409be66e0c280800000000000000
+      internalID: -9024960290025630461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 145
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84ddc09fb21e9450800000000000000
+      internalID: 6097331559483692172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_18
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 167
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1313140a200d52430800000000000000
+      internalID: 3757638173807685937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_19
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 162
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b963ebe858000c0800000000000000
+      internalID: -4611539170304287891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 141
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7ce29978d3279d0800000000000000
+      internalID: -2778090367534315535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad91f83617c2038b0800000000000000
+      internalID: -5174587106335450662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 141
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab117d662288b5a30800000000000000
+      internalID: 4205104358416126394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_23
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 141
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c1c3de890aa8890800000000000000
+      internalID: -7454969654482822134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 141
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4ad887ec323570800000000000000
+      internalID: 8444879216404220763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 141
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ac4a764e882a150800000000000000
+      internalID: 5882414577872063131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_26
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 141
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726ab39f7ac619c0800000000000000
+      internalID: -3956752573310279054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_27
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 141
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befee1cd043a53640800000000000000
+      internalID: 5059129255386869739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 141
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bfabf66f694ccd0800000000000000
+      internalID: -2538738304749470916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_29
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 141
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e025702b2faeee010800000000000000
+      internalID: 1220170877153792526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 141
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15989e5e91bdaff0800000000000000
+      internalID: -23167129316977382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_31
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15319f265bf41e370800000000000000
+      internalID: 8350042824589775697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_32
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e54df0aa5e02cf0800000000000000
+      internalID: -278970658324193673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_33
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 144
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f60f3fde57ca250800000000000000
+      internalID: 5957266071964643160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_34
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431c8cad8cf3a3630800000000000000
+      internalID: 3907505758593925428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_35
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f6ab881a6186540800000000000000
+      internalID: 5001272269234401126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_36
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279972722b511b020800000000000000
+      internalID: 2355687934996748658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_37
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6be95bba97d5d40800000000000000
+      internalID: 5574745692147988150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_38
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a1809acc925a7b0800000000000000
+      internalID: -5213715034625533433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_39
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 141
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227f1e4556a02650800000000000000
+      internalID: 6206143171829658151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680c13bd46c19be0800000000000000
+      internalID: -1472177566153701278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff282f1c9e982680800000000000000
+      internalID: -8779593080183967758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 81
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eedf5d33059fe5c0800000000000000
+      internalID: -4183961687656767768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_43
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c8d7f0390f2eb70800000000000000
+      internalID: 8926961925812489300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1b9974ffa661a00800000000000000
+      internalID: 726886034517373375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685bc1335de5ea8e0800000000000000
+      internalID: -1680301341184051834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_46
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 21
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9537b77888f350800000000000000
+      internalID: 6050736147128490567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black Mushroom_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 21
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c514b4c0e4d1e1620800000000000000
+      internalID: 2746665043793494364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Black Mushroom_0: 714622182140127381
+      Black Mushroom_1: 6652505807991099684
+      Black Mushroom_10: -5553598303081065617
+      Black Mushroom_11: 7729574575380716177
+      Black Mushroom_12: -1090791306070043
+      Black Mushroom_13: -1231778458752243129
+      Black Mushroom_14: -2087961423411487255
+      Black Mushroom_15: 8332316860433505907
+      Black Mushroom_16: -9024960290025630461
+      Black Mushroom_17: 6097331559483692172
+      Black Mushroom_18: 3757638173807685937
+      Black Mushroom_19: -4611539170304287891
+      Black Mushroom_2: -2216371419123371443
+      Black Mushroom_20: -2778090367534315535
+      Black Mushroom_21: -5174587106335450662
+      Black Mushroom_22: 4205104358416126394
+      Black Mushroom_23: -7454969654482822134
+      Black Mushroom_24: 8444879216404220763
+      Black Mushroom_25: 5882414577872063131
+      Black Mushroom_26: -3956752573310279054
+      Black Mushroom_27: 5059129255386869739
+      Black Mushroom_28: -2538738304749470916
+      Black Mushroom_29: 1220170877153792526
+      Black Mushroom_3: -2606522463074976714
+      Black Mushroom_30: -23167129316977382
+      Black Mushroom_31: 8350042824589775697
+      Black Mushroom_32: -278970658324193673
+      Black Mushroom_33: 5957266071964643160
+      Black Mushroom_34: 3907505758593925428
+      Black Mushroom_35: 5001272269234401126
+      Black Mushroom_36: 2355687934996748658
+      Black Mushroom_37: 5574745692147988150
+      Black Mushroom_38: -5213715034625533433
+      Black Mushroom_39: 6206143171829658151
+      Black Mushroom_4: 7581334439828343477
+      Black Mushroom_40: -1472177566153701278
+      Black Mushroom_41: -8779593080183967758
+      Black Mushroom_42: -4183961687656767768
+      Black Mushroom_43: 8926961925812489300
+      Black Mushroom_44: 726886034517373375
+      Black Mushroom_45: -1680301341184051834
+      Black Mushroom_46: 6050736147128490567
+      Black Mushroom_47: 2746665043793494364
+      Black Mushroom_5: -2523737510035435457
+      Black Mushroom_6: -5917007346893561504
+      Black Mushroom_7: -2582482696429111492
+      Black Mushroom_8: -2754068625046893616
+      Black Mushroom_9: 6201862382011066606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

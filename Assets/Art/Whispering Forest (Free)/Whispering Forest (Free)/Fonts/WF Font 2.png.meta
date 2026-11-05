@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: 1a4458b8b74e25e4faad2261fd6a4bc4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5654929679059353185
+    second: WF Font 2_0
+  - first:
+      213: -6392800031974422440
+    second: WF Font 2_1
+  - first:
+      213: -3803854812463047827
+    second: WF Font 2_2
+  - first:
+      213: 4498432206293733655
+    second: WF Font 2_3
+  - first:
+      213: -4600448518769447070
+    second: WF Font 2_4
+  - first:
+      213: 62194263283137277
+    second: WF Font 2_5
+  - first:
+      213: 4977176424423589201
+    second: WF Font 2_6
+  - first:
+      213: -4267318905498461835
+    second: WF Font 2_7
+  - first:
+      213: -8290375630386317448
+    second: WF Font 2_8
+  - first:
+      213: 1392986679508850769
+    second: WF Font 2_9
+  - first:
+      213: -6702334606987016644
+    second: WF Font 2_10
+  - first:
+      213: 6740572237862658552
+    second: WF Font 2_11
+  - first:
+      213: -2307660142708053782
+    second: WF Font 2_12
+  - first:
+      213: -5036493359187665026
+    second: WF Font 2_13
+  - first:
+      213: 3183014016388283227
+    second: WF Font 2_14
+  - first:
+      213: -3621483824558640009
+    second: WF Font 2_15
+  - first:
+      213: 2200470389400478731
+    second: WF Font 2_16
+  - first:
+      213: -3523128711822809451
+    second: WF Font 2_17
+  - first:
+      213: -8099164228487327562
+    second: WF Font 2_18
+  - first:
+      213: -8886907016640723448
+    second: WF Font 2_19
+  - first:
+      213: 7888372147046810228
+    second: WF Font 2_20
+  - first:
+      213: -2891982809402810092
+    second: WF Font 2_21
+  - first:
+      213: -1158310528838060100
+    second: WF Font 2_22
+  - first:
+      213: 1803328768175269974
+    second: WF Font 2_23
+  - first:
+      213: -4335049169361643009
+    second: WF Font 2_24
+  - first:
+      213: 5744285646205928836
+    second: WF Font 2_25
+  - first:
+      213: 8736599805678039253
+    second: WF Font 2_26
+  - first:
+      213: -7414547716528852634
+    second: WF Font 2_27
+  - first:
+      213: 4303347819005354795
+    second: WF Font 2_28
+  - first:
+      213: -7959413162222926260
+    second: WF Font 2_29
+  - first:
+      213: 6983032016357901406
+    second: WF Font 2_30
+  - first:
+      213: -6011800195733425042
+    second: WF Font 2_31
+  - first:
+      213: -3875230063034001094
+    second: WF Font 2_32
+  - first:
+      213: 1598482138356268549
+    second: WF Font 2_33
+  - first:
+      213: -7032668312133635201
+    second: WF Font 2_34
+  - first:
+      213: -7263141067208312139
+    second: WF Font 2_35
+  - first:
+      213: 1168647822291358390
+    second: WF Font 2_36
+  - first:
+      213: 5537870426285540768
+    second: WF Font 2_37
+  - first:
+      213: -1495101502537395229
+    second: WF Font 2_38
+  - first:
+      213: -8734487887172161592
+    second: WF Font 2_39
+  - first:
+      213: 774117044901601168
+    second: WF Font 2_40
+  - first:
+      213: -5496174479841802447
+    second: WF Font 2_41
+  - first:
+      213: 3746356843390481978
+    second: WF Font 2_42
+  - first:
+      213: 6550975156292137858
+    second: WF Font 2_43
+  - first:
+      213: -3949745772826728979
+    second: WF Font 2_44
+  - first:
+      213: -6686510769146770755
+    second: WF Font 2_45
+  - first:
+      213: 7464042054969666301
+    second: WF Font 2_46
+  - first:
+      213: -1965497755679001725
+    second: WF Font 2_47
+  - first:
+      213: -1255494188251769851
+    second: WF Font 2_48
+  - first:
+      213: 5463440369710484766
+    second: WF Font 2_49
+  - first:
+      213: -4209588663498805770
+    second: WF Font 2_50
+  - first:
+      213: 1056149369580781288
+    second: WF Font 2_51
+  - first:
+      213: -8896337687266398018
+    second: WF Font 2_52
+  - first:
+      213: 5751332811926538389
+    second: WF Font 2_53
+  - first:
+      213: -4564671477604189159
+    second: WF Font 2_54
+  - first:
+      213: -8245603576127882475
+    second: WF Font 2_55
+  - first:
+      213: -7658247857971651522
+    second: WF Font 2_56
+  - first:
+      213: -8588048050716924133
+    second: WF Font 2_57
+  - first:
+      213: 120006046639369797
+    second: WF Font 2_58
+  - first:
+      213: -3790970813480529006
+    second: WF Font 2_59
+  - first:
+      213: -8488019661560658809
+    second: WF Font 2_60
+  - first:
+      213: -4237928655866514153
+    second: WF Font 2_61
+  - first:
+      213: 1825364599448695449
+    second: WF Font 2_62
+  - first:
+      213: 4618650156366762914
+    second: WF Font 2_63
+  - first:
+      213: 7965457744003808664
+    second: WF Font 2_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WF Font 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e752ef4985a7e40800000000000000
+      internalID: 5654929679059353185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8580f0ecd363847a0800000000000000
+      internalID: -6392800031974422440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bdaf5a33ef53bc0800000000000000
+      internalID: -3803854812463047827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71190560244ad6e30800000000000000
+      internalID: 4498432206293733655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f6647427ce720c0800000000000000
+      internalID: -4600448518769447070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_5
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfafe0a5a55fcd000800000000000000
+      internalID: 62194263283137277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_6
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155873a769b721540800000000000000
+      internalID: 4977176424423589201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579947e801077c4c0800000000000000
+      internalID: -4267318905498461835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877b448d94ba2fc80800000000000000
+      internalID: -8290375630386317448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158d9f03102e45310800000000000000
+      internalID: 1392986679508850769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c364bb87f268cf2a0800000000000000
+      internalID: -6702334606987016644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1e9acbcb25b8d50800000000000000
+      internalID: 6740572237862658552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae82f83a35b89ffd0800000000000000
+      internalID: -2307660142708053782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 71
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f510c69f7ca1ab0800000000000000
+      internalID: -5036493359187665026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb9e132665c2c20800000000000000
+      internalID: 3183014016388283227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774fb5526a7edbdc0800000000000000
+      internalID: -3621483824558640009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b042bfa1924a98e10800000000000000
+      internalID: 2200470389400478731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59662d95a155b1fc0800000000000000
+      internalID: -3523128711822809451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 80
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0567f9b0df99f80800000000000000
+      internalID: -8099164228487327562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 72
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8060439372d5ba480800000000000000
+      internalID: -8886907016640723448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728fc06ca0297d60800000000000000
+      internalID: 7888372147046810228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411620d05fc9dd7d0800000000000000
+      internalID: -2891982809402810092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7330506badcefe0800000000000000
+      internalID: -1158310528838060100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6586450d5f5b60910800000000000000
+      internalID: 1803328768175269974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9d850afbfc6d3c0800000000000000
+      internalID: -4335049169361643009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ca765c5dc7bf40800000000000000
+      internalID: 5744285646205928836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0bf2a1c33ae3970800000000000000
+      internalID: 8736599805678039253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6613d12c22c3a1990800000000000000
+      internalID: -7414547716528852634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2324c09a0098bb30800000000000000
+      internalID: 4303347819005354795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46422556eb7a8190800000000000000
+      internalID: -7959413162222926260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_30
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5441360f96b8e060800000000000000
+      internalID: 6983032016357901406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e647fa8e29bc19ca0800000000000000
+      internalID: -6011800195733425042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 56
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3991fd1aca683ac0800000000000000
+      internalID: -3875230063034001094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 55
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e38842903fe2610800000000000000
+      internalID: 1598482138356268549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73f0284e61f66e90800000000000000
+      internalID: -7032668312133635201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba3f7f5ea3243b90800000000000000
+      internalID: -7263141067208312139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2d53ba00fd73010800000000000000
+      internalID: 1168647822291358390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a504e2dfc77adc40800000000000000
+      internalID: 5537870426285540768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e31b16da15504be0800000000000000
+      internalID: -1495101502537395229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_39
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 47
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfa62e3b8dd8c680800000000000000
+      internalID: -8734487887172161592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_40
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5fe3d9573eba00800000000000000
+      internalID: 774117044901601168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13746793e6aa9b3b0800000000000000
+      internalID: -5496174479841802447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36b42433bbbdf330800000000000000
+      internalID: 3746356843390481978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283b333323db9ea50800000000000000
+      internalID: 6550975156292137858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5ef81752faf29c0800000000000000
+      internalID: -3949745772826728979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbace22d1edb433a0800000000000000
+      internalID: -6686510769146770755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2b0be3ba959760800000000000000
+      internalID: 7464042054969666301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_47
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383fce1743629b4e0800000000000000
+      internalID: -1965497755679001725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5049fab00b6939ee0800000000000000
+      internalID: -1255494188251769851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_49
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4f18d11a02db40800000000000000
+      internalID: 5463440369710484766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd64a5f9698495c0800000000000000
+      internalID: -4209588663498805770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee7d93814238ae00800000000000000
+      internalID: 1056149369580781288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_52
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 40
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f09c120cd98480800000000000000
+      internalID: -8896337687266398018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_53
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5980ee778b6d0df40800000000000000
+      internalID: 5751332811926538389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c7b0dc97707a0c0800000000000000
+      internalID: -4564671477604189159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf43e0c3bb19d80800000000000000
+      internalID: -8245603576127882475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_56
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c14b7f52078b590800000000000000
+      internalID: -7658247857971651522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17280f9ccf11d880800000000000000
+      internalID: -8588048050716924133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ea6d41dd85aa100800000000000000
+      internalID: 120006046639369797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2939e9c6124c36bc0800000000000000
+      internalID: -3790970813480529006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784452ad61f743a80800000000000000
+      internalID: -8488019661560658809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_61
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b0ab475adf25c0800000000000000
+      internalID: -4237928655866514153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_62
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99276b79e6ff45910800000000000000
+      internalID: 1825364599448695449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a31b08b8ddb81040800000000000000
+      internalID: 4618650156366762914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WF Font 2_64
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 24
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d3bb88d9dfa8e60800000000000000
+      internalID: 7965457744003808664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WF Font 2_0: 5654929679059353185
+      WF Font 2_1: -6392800031974422440
+      WF Font 2_10: -6702334606987016644
+      WF Font 2_11: 6740572237862658552
+      WF Font 2_12: -2307660142708053782
+      WF Font 2_13: -5036493359187665026
+      WF Font 2_14: 3183014016388283227
+      WF Font 2_15: -3621483824558640009
+      WF Font 2_16: 2200470389400478731
+      WF Font 2_17: -3523128711822809451
+      WF Font 2_18: -8099164228487327562
+      WF Font 2_19: -8886907016640723448
+      WF Font 2_2: -3803854812463047827
+      WF Font 2_20: 7888372147046810228
+      WF Font 2_21: -2891982809402810092
+      WF Font 2_22: -1158310528838060100
+      WF Font 2_23: 1803328768175269974
+      WF Font 2_24: -4335049169361643009
+      WF Font 2_25: 5744285646205928836
+      WF Font 2_26: 8736599805678039253
+      WF Font 2_27: -7414547716528852634
+      WF Font 2_28: 4303347819005354795
+      WF Font 2_29: -7959413162222926260
+      WF Font 2_3: 4498432206293733655
+      WF Font 2_30: 6983032016357901406
+      WF Font 2_31: -6011800195733425042
+      WF Font 2_32: -3875230063034001094
+      WF Font 2_33: 1598482138356268549
+      WF Font 2_34: -7032668312133635201
+      WF Font 2_35: -7263141067208312139
+      WF Font 2_36: 1168647822291358390
+      WF Font 2_37: 5537870426285540768
+      WF Font 2_38: -1495101502537395229
+      WF Font 2_39: -8734487887172161592
+      WF Font 2_4: -4600448518769447070
+      WF Font 2_40: 774117044901601168
+      WF Font 2_41: -5496174479841802447
+      WF Font 2_42: 3746356843390481978
+      WF Font 2_43: 6550975156292137858
+      WF Font 2_44: -3949745772826728979
+      WF Font 2_45: -6686510769146770755
+      WF Font 2_46: 7464042054969666301
+      WF Font 2_47: -1965497755679001725
+      WF Font 2_48: -1255494188251769851
+      WF Font 2_49: 5463440369710484766
+      WF Font 2_5: 62194263283137277
+      WF Font 2_50: -4209588663498805770
+      WF Font 2_51: 1056149369580781288
+      WF Font 2_52: -8896337687266398018
+      WF Font 2_53: 5751332811926538389
+      WF Font 2_54: -4564671477604189159
+      WF Font 2_55: -8245603576127882475
+      WF Font 2_56: -7658247857971651522
+      WF Font 2_57: -8588048050716924133
+      WF Font 2_58: 120006046639369797
+      WF Font 2_59: -3790970813480529006
+      WF Font 2_6: 4977176424423589201
+      WF Font 2_60: -8488019661560658809
+      WF Font 2_61: -4237928655866514153
+      WF Font 2_62: 1825364599448695449
+      WF Font 2_63: 4618650156366762914
+      WF Font 2_64: 7965457744003808664
+      WF Font 2_7: -4267318905498461835
+      WF Font 2_8: -8290375630386317448
+      WF Font 2_9: 1392986679508850769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

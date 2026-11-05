@@ -1,0 +1,3070 @@
+fileFormatVersion: 2
+guid: c0bfa8b8bc4e0b84484be6d456a63cc1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9064802160037442992
+    second: Colored Icons_0
+  - first:
+      213: -7032845053439177309
+    second: Colored Icons_1
+  - first:
+      213: 430156903714084469
+    second: Colored Icons_2
+  - first:
+      213: 7676689612929037514
+    second: Colored Icons_3
+  - first:
+      213: -572922971569345023
+    second: Colored Icons_4
+  - first:
+      213: 3535907520511945044
+    second: Colored Icons_5
+  - first:
+      213: -2156578384047096632
+    second: Colored Icons_6
+  - first:
+      213: -1690282872088426929
+    second: Colored Icons_7
+  - first:
+      213: 264904013047160988
+    second: Colored Icons_8
+  - first:
+      213: 2473614942865470448
+    second: Colored Icons_9
+  - first:
+      213: 3472716075819954232
+    second: Colored Icons_10
+  - first:
+      213: 8648122771039757730
+    second: Colored Icons_11
+  - first:
+      213: 6974943517544192833
+    second: Colored Icons_12
+  - first:
+      213: -1668834461340921214
+    second: Colored Icons_13
+  - first:
+      213: -1750049431625961148
+    second: Colored Icons_14
+  - first:
+      213: 6143343656138288647
+    second: Colored Icons_15
+  - first:
+      213: 2501804978932798465
+    second: Colored Icons_16
+  - first:
+      213: -4794130153075391701
+    second: Colored Icons_17
+  - first:
+      213: 6244292802635734458
+    second: Colored Icons_18
+  - first:
+      213: -3971819358077720094
+    second: Colored Icons_19
+  - first:
+      213: 7455015814714775485
+    second: Colored Icons_20
+  - first:
+      213: 8566694490921480691
+    second: Colored Icons_21
+  - first:
+      213: -3757608670978481783
+    second: Colored Icons_22
+  - first:
+      213: -5205268695607868809
+    second: Colored Icons_23
+  - first:
+      213: 2817221908750839604
+    second: Colored Icons_24
+  - first:
+      213: -1625754125766255181
+    second: Colored Icons_25
+  - first:
+      213: 3740027375658268178
+    second: Colored Icons_26
+  - first:
+      213: -3579263574616184320
+    second: Colored Icons_27
+  - first:
+      213: -1418804987957010887
+    second: Colored Icons_28
+  - first:
+      213: 4745939455333021274
+    second: Colored Icons_29
+  - first:
+      213: 688468733382513613
+    second: Colored Icons_30
+  - first:
+      213: 3973201846293800387
+    second: Colored Icons_31
+  - first:
+      213: 7337111334742698270
+    second: Colored Icons_32
+  - first:
+      213: -6840500481951184798
+    second: Colored Icons_33
+  - first:
+      213: -6410608283159805128
+    second: Colored Icons_34
+  - first:
+      213: -2180813819371654144
+    second: Colored Icons_35
+  - first:
+      213: 2196362344481004079
+    second: Colored Icons_36
+  - first:
+      213: -7060173197509992007
+    second: Colored Icons_37
+  - first:
+      213: 6916447709835379460
+    second: Colored Icons_38
+  - first:
+      213: -7579745216217454369
+    second: Colored Icons_39
+  - first:
+      213: 8376830565130094312
+    second: Colored Icons_40
+  - first:
+      213: 5623180524461509227
+    second: Colored Icons_41
+  - first:
+      213: 3705656820342621085
+    second: Colored Icons_42
+  - first:
+      213: -1342059753146786854
+    second: Colored Icons_43
+  - first:
+      213: 7374359084565522223
+    second: Colored Icons_44
+  - first:
+      213: 8830378598081904651
+    second: Colored Icons_45
+  - first:
+      213: 4149882074402438734
+    second: Colored Icons_46
+  - first:
+      213: 6110228785793639016
+    second: Colored Icons_47
+  - first:
+      213: -9210371192625655778
+    second: Colored Icons_48
+  - first:
+      213: 7380712086570026078
+    second: Colored Icons_49
+  - first:
+      213: 372537796690998462
+    second: Colored Icons_50
+  - first:
+      213: -848169179650139481
+    second: Colored Icons_51
+  - first:
+      213: 547860969203353841
+    second: Colored Icons_52
+  - first:
+      213: -3531570312924609894
+    second: Colored Icons_53
+  - first:
+      213: 429015913970463366
+    second: Colored Icons_54
+  - first:
+      213: 1599646014112675008
+    second: Colored Icons_55
+  - first:
+      213: 4639144190536386422
+    second: Colored Icons_56
+  - first:
+      213: 5019599811133748412
+    second: Colored Icons_57
+  - first:
+      213: -2833384987319090850
+    second: Colored Icons_58
+  - first:
+      213: 6625891361589896361
+    second: Colored Icons_59
+  - first:
+      213: 1784605685376340114
+    second: Colored Icons_60
+  - first:
+      213: -5562352881109807546
+    second: Colored Icons_61
+  - first:
+      213: 7887469029501654302
+    second: Colored Icons_62
+  - first:
+      213: -110002786916539994
+    second: Colored Icons_63
+  - first:
+      213: 5831460723665477196
+    second: Colored Icons_64
+  - first:
+      213: 7225648861831817921
+    second: Colored Icons_65
+  - first:
+      213: 5813365522965570641
+    second: Colored Icons_66
+  - first:
+      213: 1682062314459445569
+    second: Colored Icons_67
+  - first:
+      213: 166967248414631381
+    second: Colored Icons_68
+  - first:
+      213: 8269600863802066979
+    second: Colored Icons_69
+  - first:
+      213: 4087384791835341798
+    second: Colored Icons_70
+  - first:
+      213: 1788248821971208419
+    second: Colored Icons_71
+  - first:
+      213: 1885119223399353263
+    second: Colored Icons_72
+  - first:
+      213: 3354760166253296553
+    second: Colored Icons_73
+  - first:
+      213: -8317721472660267194
+    second: Colored Icons_74
+  - first:
+      213: 6977176375267893481
+    second: Colored Icons_75
+  - first:
+      213: -8241615894905017422
+    second: Colored Icons_76
+  - first:
+      213: 5877706567128087486
+    second: Colored Icons_77
+  - first:
+      213: -2847879909662676752
+    second: Colored Icons_78
+  - first:
+      213: -1140329600200616259
+    second: Colored Icons_79
+  - first:
+      213: 7225220720194494619
+    second: Colored Icons_80
+  - first:
+      213: 5788053653945046402
+    second: Colored Icons_81
+  - first:
+      213: 7171684153270851693
+    second: Colored Icons_82
+  - first:
+      213: -3987969667848361448
+    second: Colored Icons_83
+  - first:
+      213: 6693937323620225871
+    second: Colored Icons_84
+  - first:
+      213: -6667983430699977589
+    second: Colored Icons_85
+  - first:
+      213: -6399713646751750850
+    second: Colored Icons_86
+  - first:
+      213: 5212013594943080425
+    second: Colored Icons_87
+  - first:
+      213: -2780233302804100433
+    second: Colored Icons_88
+  - first:
+      213: 5965035838708944691
+    second: Colored Icons_89
+  - first:
+      213: 4422365913177345906
+    second: Colored Icons_90
+  - first:
+      213: -3479047510054084998
+    second: Colored Icons_91
+  - first:
+      213: 8620673455981744993
+    second: Colored Icons_92
+  - first:
+      213: -1258512062905890574
+    second: Colored Icons_93
+  - first:
+      213: -1330456827043826079
+    second: Colored Icons_94
+  - first:
+      213: 7893297676916383122
+    second: Colored Icons_95
+  - first:
+      213: 810184419777683559
+    second: Colored Icons_96
+  - first:
+      213: -5781735784885899413
+    second: Colored Icons_97
+  - first:
+      213: 9031314243775758262
+    second: Colored Icons_98
+  - first:
+      213: -6218507626220348828
+    second: Colored Icons_99
+  - first:
+      213: 8909599505145213265
+    second: Colored Icons_100
+  - first:
+      213: 1940908522682168114
+    second: Colored Icons_101
+  - first:
+      213: 7011128852101644253
+    second: Colored Icons_102
+  - first:
+      213: 1664162799480597430
+    second: Colored Icons_103
+  - first:
+      213: 5771179549266105255
+    second: Colored Icons_104
+  - first:
+      213: 5072326398116724896
+    second: Colored Icons_105
+  - first:
+      213: -2809365874401264218
+    second: Colored Icons_106
+  - first:
+      213: 2330400346131026311
+    second: Colored Icons_107
+  - first:
+      213: -3834850571554662906
+    second: Colored Icons_108
+  - first:
+      213: 2041796573842635340
+    second: Colored Icons_109
+  - first:
+      213: -7058783711796874182
+    second: Colored Icons_110
+  - first:
+      213: 3801279236766585039
+    second: Colored Icons_111
+  - first:
+      213: -1721614411844026959
+    second: Colored Icons_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colored Icons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 177
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a46cb767a533280800000000000000
+      internalID: -9064802160037442992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad056d7fa0566e90800000000000000
+      internalID: -7032845053439177309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 178
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5765f83cc6938f500800000000000000
+      internalID: 430156903714084469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 179
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4f095b784198a60800000000000000
+      internalID: 7676689612929037514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea2f3c7919c08f0800000000000000
+      internalID: -572922971569345023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4592fb6e721121130800000000000000
+      internalID: 3535907520511945044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3690c26b4212e0800000000000000
+      internalID: -2156578384047096632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460e3feea8ea88e0800000000000000
+      internalID: -1690282872088426929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90604ddbc02da300800000000000000
+      internalID: 264904013047160988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 178
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3389c4fab045220800000000000000
+      internalID: 2473614942865470448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83079092fd0913030800000000000000
+      internalID: 3472716075819954232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5aacd27dd440870800000000000000
+      internalID: 8648122771039757730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b92a3ac2afbc060800000000000000
+      internalID: 6974943517544192833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28218d636eb17d8e0800000000000000
+      internalID: -1668834461340921214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4417f88605396b7e0800000000000000
+      internalID: -1750049431625961148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ea545a18a814550800000000000000
+      internalID: 6143343656138288647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d79a8f5238b220800000000000000
+      internalID: 2501804978932798465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23c3f2b604d77db0800000000000000
+      internalID: -4794130153075391701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd91a6683f28a650800000000000000
+      internalID: 6244292802635734458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 162
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9e1c1665341e8c0800000000000000
+      internalID: -3971819358077720094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db75ef69269857760800000000000000
+      internalID: 7455015814714775485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 146
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1bbae404303e670800000000000000
+      internalID: 8566694490921480691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981666982da4adbc0800000000000000
+      internalID: -3757608670978481783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_23
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77205d533bb23c7b0800000000000000
+      internalID: -5205268695607868809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43faa845668c81720800000000000000
+      internalID: 2817221908750839604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_25
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd93997c392079e0800000000000000
+      internalID: -1625754125766255181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216f858251f37e330800000000000000
+      internalID: 3740027375658268178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ae18d1eb6e35ec0800000000000000
+      internalID: -3579263574616184320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e154f61646f4ce0800000000000000
+      internalID: -1418804987957010887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_29
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 145
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b2a02ac6fcd140800000000000000
+      internalID: 4745939455333021274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc35a345aaeed8900800000000000000
+      internalID: 688468733382513613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5a44d3706a32730800000000000000
+      internalID: 3973201846293800387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_32
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a4d0a2e7a2d560800000000000000
+      internalID: 7337111334742698270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_33
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268496fdd09a111a0800000000000000
+      internalID: -6840500481951184798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_34
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83345183bb1f807a0800000000000000
+      internalID: -6410608283159805128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004f61fb2613cb1e0800000000000000
+      internalID: -2180813819371654144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 129
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a95dc5aeb0b7e10800000000000000
+      internalID: 2196362344481004079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_37
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 128
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1eead12e9350e90800000000000000
+      internalID: -7060173197509992007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 131
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4034d441c882cff50800000000000000
+      internalID: 6916447709835379460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_39
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8646392e55fc690800000000000000
+      internalID: -7579745216217454369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6c632440b704470800000000000000
+      internalID: 8376830565130094312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 113
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a4c64e4ec890e40800000000000000
+      internalID: 5623180524461509227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d938604ae332d6330800000000000000
+      internalID: 3705656820342621085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb565ad3cb006de0800000000000000
+      internalID: -1342059753146786854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27e3b1348cf65660800000000000000
+      internalID: 7374359084565522223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_45
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0042e2bc8ecb8a70800000000000000
+      internalID: 8830378598081904651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4eb48872c7579930800000000000000
+      internalID: 4149882074402438734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_47
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 112
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862a89115b4ebc450800000000000000
+      internalID: 6110228785793639016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e109e0ee2303e2080800000000000000
+      internalID: -9210371192625655778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54407db98e8d6660800000000000000
+      internalID: 7380712086570026078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb47c2df6258b2500800000000000000
+      internalID: 372537796690998462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_51
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad489ff92ba34f0800000000000000
+      internalID: -848169179650139481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8caa716a46a9700800000000000000
+      internalID: 547860969203353841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_53
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9240dee2875dfec0800000000000000
+      internalID: -3531570312924609894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f23363bb24f500800000000000000
+      internalID: 429015913970463366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_55
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 96
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c43e851395133610800000000000000
+      internalID: 1599646014112675008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 98
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6770db2ef0d816040800000000000000
+      internalID: 4639144190536386422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 97
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4be39ee6339a540800000000000000
+      internalID: 5019599811133748412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51cbeead5bcda8d0800000000000000
+      internalID: -2833384987319090850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a425ef7615e3fb50800000000000000
+      internalID: 6625891361589896361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290dff46a6134c810800000000000000
+      internalID: 1784605685376340114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e4416768d8ec2b0800000000000000
+      internalID: -5562352881109807546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_62
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 81
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e155750fa4be57d60800000000000000
+      internalID: 7887469029501654302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a169815c01397ef0800000000000000
+      internalID: -110002786916539994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e19bbb1a28de050800000000000000
+      internalID: 5831460723665477196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cae0315b59a64460800000000000000
+      internalID: 7225648861831817921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 82
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154add184293da050800000000000000
+      internalID: 5813365522965570641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_67
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 81
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1493d6753c2e75710800000000000000
+      internalID: 1682062314459445569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_68
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5e0eae3df215200800000000000000
+      internalID: 166967248414631381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_69
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 79
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3288f21eb2683c270800000000000000
+      internalID: 8269600863802066979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3fda1ffce49b830800000000000000
+      internalID: 4087384791835341798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_71
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8ca9b34d221d810800000000000000
+      internalID: 1788248821971208419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab8af522f9492a10800000000000000
+      internalID: 1885119223399353263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab7820d8908e8e20800000000000000
+      internalID: 3354760166253296553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f1279c364819c80800000000000000
+      internalID: -8317721472660267194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0271752f8e3d060800000000000000
+      internalID: 6977176375267893481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb29f07206ef9d80800000000000000
+      internalID: -8241615894905017422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb76ab3bfec19150800000000000000
+      internalID: 5877706567128087486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8a5959f4c4a78d0800000000000000
+      internalID: -2847879909662676752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6dd25354cbc20f0800000000000000
+      internalID: -1140329600200616259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b902cf2d6f3254460800000000000000
+      internalID: 7225220720194494619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_81
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 48
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285db40c12c435050800000000000000
+      internalID: 5788053653945046402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_82
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d10d7db0f68360800000000000000
+      internalID: 7171684153270851693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_83
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aaddc57b2e7a8c0800000000000000
+      internalID: -3987969667848361448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_84
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43dc13a784a5ec50800000000000000
+      internalID: 6693937323620225871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_85
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84ffe4f5609673a0800000000000000
+      internalID: -6667983430699977589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_86
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 50
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35642d6856af27a0800000000000000
+      internalID: -6399713646751750850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_87
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 49
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7c61b00cac45840800000000000000
+      internalID: 5212013594943080425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 50
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa86a99a80aa69d0800000000000000
+      internalID: -2780233302804100433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f88bebd7018c250800000000000000
+      internalID: 5965035838708944691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f4bb90e566f5d30800000000000000
+      internalID: 4422365913177345906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_91
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed48ee8b0f7bfc0800000000000000
+      internalID: -3479047510054084998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_92
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1635e6c75d8c2a770800000000000000
+      internalID: 8620673455981744993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_93
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f843f852fdd88ee0800000000000000
+      internalID: -1258512062905890574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_94
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 34
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1663f0b9094498de0800000000000000
+      internalID: -1330456827043826079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_95
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 33
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d540baa60aa8d60800000000000000
+      internalID: 7893297676916383122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760a76fef6a5e3b00800000000000000
+      internalID: 810184419777683559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_97
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f26b4cfe523cfa0800000000000000
+      internalID: -5781735784885899413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_98
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bffd2b647ca55d70800000000000000
+      internalID: 9031314243775758262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_99
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1412d24c63b9a0800000000000000
+      internalID: -6218507626220348828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_100
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1513d2b7b8145ab70800000000000000
+      internalID: 8909599505145213265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_101
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233bffb940e7fea10800000000000000
+      internalID: 1940908522682168114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_102
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb2006b888c4160800000000000000
+      internalID: 7011128852101644253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_103
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbe57fbf3b481710800000000000000
+      internalID: 1664162799480597430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 19
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a351091939571050800000000000000
+      internalID: 5771179549266105255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a085981cf5846640800000000000000
+      internalID: 5072326398116724896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad35343f902309d0800000000000000
+      internalID: -2809365874401264218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_107
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 17
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781569f84ce375020800000000000000
+      internalID: 2330400346131026311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_108
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606d7cb19bfd7cac0800000000000000
+      internalID: -3834850571554662906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_109
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aff7f7a2be55c10800000000000000
+      internalID: 2041796573842635340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34b808fc992a0e90800000000000000
+      internalID: -7058783711796874182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_111
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc05a87635bd0c430800000000000000
+      internalID: 3801279236766585039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colored Icons_112
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf7dd50d89b18e0800000000000000
+      internalID: -1721614411844026959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Colored Icons_0: -9064802160037442992
+      Colored Icons_1: -7032845053439177309
+      Colored Icons_10: 3472716075819954232
+      Colored Icons_100: 8909599505145213265
+      Colored Icons_101: 1940908522682168114
+      Colored Icons_102: 7011128852101644253
+      Colored Icons_103: 1664162799480597430
+      Colored Icons_104: 5771179549266105255
+      Colored Icons_105: 5072326398116724896
+      Colored Icons_106: -2809365874401264218
+      Colored Icons_107: 2330400346131026311
+      Colored Icons_108: -3834850571554662906
+      Colored Icons_109: 2041796573842635340
+      Colored Icons_11: 8648122771039757730
+      Colored Icons_110: -7058783711796874182
+      Colored Icons_111: 3801279236766585039
+      Colored Icons_112: -1721614411844026959
+      Colored Icons_12: 6974943517544192833
+      Colored Icons_13: -1668834461340921214
+      Colored Icons_14: -1750049431625961148
+      Colored Icons_15: 6143343656138288647
+      Colored Icons_16: 2501804978932798465
+      Colored Icons_17: -4794130153075391701
+      Colored Icons_18: 6244292802635734458
+      Colored Icons_19: -3971819358077720094
+      Colored Icons_2: 430156903714084469
+      Colored Icons_20: 7455015814714775485
+      Colored Icons_21: 8566694490921480691
+      Colored Icons_22: -3757608670978481783
+      Colored Icons_23: -5205268695607868809
+      Colored Icons_24: 2817221908750839604
+      Colored Icons_25: -1625754125766255181
+      Colored Icons_26: 3740027375658268178
+      Colored Icons_27: -3579263574616184320
+      Colored Icons_28: -1418804987957010887
+      Colored Icons_29: 4745939455333021274
+      Colored Icons_3: 7676689612929037514
+      Colored Icons_30: 688468733382513613
+      Colored Icons_31: 3973201846293800387
+      Colored Icons_32: 7337111334742698270
+      Colored Icons_33: -6840500481951184798
+      Colored Icons_34: -6410608283159805128
+      Colored Icons_35: -2180813819371654144
+      Colored Icons_36: 2196362344481004079
+      Colored Icons_37: -7060173197509992007
+      Colored Icons_38: 6916447709835379460
+      Colored Icons_39: -7579745216217454369
+      Colored Icons_4: -572922971569345023
+      Colored Icons_40: 8376830565130094312
+      Colored Icons_41: 5623180524461509227
+      Colored Icons_42: 3705656820342621085
+      Colored Icons_43: -1342059753146786854
+      Colored Icons_44: 7374359084565522223
+      Colored Icons_45: 8830378598081904651
+      Colored Icons_46: 4149882074402438734
+      Colored Icons_47: 6110228785793639016
+      Colored Icons_48: -9210371192625655778
+      Colored Icons_49: 7380712086570026078
+      Colored Icons_5: 3535907520511945044
+      Colored Icons_50: 372537796690998462
+      Colored Icons_51: -848169179650139481
+      Colored Icons_52: 547860969203353841
+      Colored Icons_53: -3531570312924609894
+      Colored Icons_54: 429015913970463366
+      Colored Icons_55: 1599646014112675008
+      Colored Icons_56: 4639144190536386422
+      Colored Icons_57: 5019599811133748412
+      Colored Icons_58: -2833384987319090850
+      Colored Icons_59: 6625891361589896361
+      Colored Icons_6: -2156578384047096632
+      Colored Icons_60: 1784605685376340114
+      Colored Icons_61: -5562352881109807546
+      Colored Icons_62: 7887469029501654302
+      Colored Icons_63: -110002786916539994
+      Colored Icons_64: 5831460723665477196
+      Colored Icons_65: 7225648861831817921
+      Colored Icons_66: 5813365522965570641
+      Colored Icons_67: 1682062314459445569
+      Colored Icons_68: 166967248414631381
+      Colored Icons_69: 8269600863802066979
+      Colored Icons_7: -1690282872088426929
+      Colored Icons_70: 4087384791835341798
+      Colored Icons_71: 1788248821971208419
+      Colored Icons_72: 1885119223399353263
+      Colored Icons_73: 3354760166253296553
+      Colored Icons_74: -8317721472660267194
+      Colored Icons_75: 6977176375267893481
+      Colored Icons_76: -8241615894905017422
+      Colored Icons_77: 5877706567128087486
+      Colored Icons_78: -2847879909662676752
+      Colored Icons_79: -1140329600200616259
+      Colored Icons_8: 264904013047160988
+      Colored Icons_80: 7225220720194494619
+      Colored Icons_81: 5788053653945046402
+      Colored Icons_82: 7171684153270851693
+      Colored Icons_83: -3987969667848361448
+      Colored Icons_84: 6693937323620225871
+      Colored Icons_85: -6667983430699977589
+      Colored Icons_86: -6399713646751750850
+      Colored Icons_87: 5212013594943080425
+      Colored Icons_88: -2780233302804100433
+      Colored Icons_89: 5965035838708944691
+      Colored Icons_9: 2473614942865470448
+      Colored Icons_90: 4422365913177345906
+      Colored Icons_91: -3479047510054084998
+      Colored Icons_92: 8620673455981744993
+      Colored Icons_93: -1258512062905890574
+      Colored Icons_94: -1330456827043826079
+      Colored Icons_95: 7893297676916383122
+      Colored Icons_96: 810184419777683559
+      Colored Icons_97: -5781735784885899413
+      Colored Icons_98: 9031314243775758262
+      Colored Icons_99: -6218507626220348828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

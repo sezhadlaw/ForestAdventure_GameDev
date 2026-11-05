@@ -1,0 +1,990 @@
+fileFormatVersion: 2
+guid: 499defebaabbe6846aa952b7eb220b89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3742976054023078668
+    second: Bald_0
+  - first:
+      213: -215975794638626156
+    second: Bald_1
+  - first:
+      213: 6615254211857614271
+    second: Bald_2
+  - first:
+      213: -5570688764576475353
+    second: Bald_3
+  - first:
+      213: -4140480694768368141
+    second: Bald_4
+  - first:
+      213: 3358162164892074449
+    second: Bald_5
+  - first:
+      213: -3550685640561052547
+    second: Bald_6
+  - first:
+      213: 8631331035877584666
+    second: Bald_7
+  - first:
+      213: 9058925517294390772
+    second: Bald_8
+  - first:
+      213: -1118219264946793906
+    second: Bald_9
+  - first:
+      213: -497640682862739317
+    second: Bald_10
+  - first:
+      213: 1570215495444678269
+    second: Bald_11
+  - first:
+      213: -4140807566089638426
+    second: Bald_12
+  - first:
+      213: 3362242132789832579
+    second: Bald_13
+  - first:
+      213: 1346997407566068393
+    second: Bald_14
+  - first:
+      213: 2079787797711341907
+    second: Bald_15
+  - first:
+      213: 4455898055581990
+    second: Bald_16
+  - first:
+      213: 6879024248727849391
+    second: Bald_17
+  - first:
+      213: 3657363132713728658
+    second: Bald_18
+  - first:
+      213: -3449266170260654525
+    second: Bald_19
+  - first:
+      213: 1587263664526281060
+    second: Bald_20
+  - first:
+      213: -332857823334881469
+    second: Bald_21
+  - first:
+      213: -2318237526407193905
+    second: Bald_22
+  - first:
+      213: 5509798146208935285
+    second: Bald_23
+  - first:
+      213: -4313924878902697621
+    second: Bald_24
+  - first:
+      213: 4733013298123717310
+    second: Bald_25
+  - first:
+      213: -2014986671255105636
+    second: Bald_26
+  - first:
+      213: 6998018213336486979
+    second: Bald_27
+  - first:
+      213: -4561047722483606978
+    second: Bald_28
+  - first:
+      213: 5750371040341677913
+    second: Bald_29
+  - first:
+      213: -2098398739085190946
+    second: Bald_30
+  - first:
+      213: -2872763020798911595
+    second: Bald_31
+  - first:
+      213: -3157596757911697814
+    second: Bald_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bald_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 244
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03c6d6d3e8b1f330800000000000000
+      internalID: 3742976054023078668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 244
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4926b78b823b00df0800000000000000
+      internalID: -215975794638626156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 244
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb50ea418aa1ecb50800000000000000
+      internalID: 6615254211857614271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 244
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727d8295510f0b2b0800000000000000
+      internalID: -5570688764576475353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 244
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f508fccebe0a86c0800000000000000
+      internalID: -4140480694768368141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_5
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 244
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d18c8852b69a9e20800000000000000
+      internalID: 3358162164892074449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 198
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d743745e83e69bec0800000000000000
+      internalID: -3550685640561052547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 198
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa94ca8d5a8c770800000000000000
+      internalID: 8631331035877584666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 198
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fdcd0103c4c7bd70800000000000000
+      internalID: 9058925517294390772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_9
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4219dbc0894b70f0800000000000000
+      internalID: -1118219264946793906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 152
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b800f208f660819f0800000000000000
+      internalID: -497640682862739317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_11
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d764bca7ca68ac510800000000000000
+      internalID: 1570215495444678269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 152
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed2af32575e886c0800000000000000
+      internalID: -4140807566089638426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 155
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b2ac5e76519ae20800000000000000
+      internalID: 3362242132789832579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 158
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaf857610f71b210800000000000000
+      internalID: 1346997407566068393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_15
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 155
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c6ca9bf3ecdc10800000000000000
+      internalID: 2079787797711341907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 153
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62122cc9d94df0000800000000000000
+      internalID: 4455898055581990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_17
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 152
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9c8ba8b14377f50800000000000000
+      internalID: 6879024248727849391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_18
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 152
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29af204446091c230800000000000000
+      internalID: 3657363132713728658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_19
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 106
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34677d171beb120d0800000000000000
+      internalID: -3449266170260654525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 106
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46949f8a4e7170610800000000000000
+      internalID: 1587263664526281060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 108
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3472a6fb293716bf0800000000000000
+      internalID: -332857823334881469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_22
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 92
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcad4859047f3dfd0800000000000000
+      internalID: -2318237526407193905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 92
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57da3e8c83cb67c40800000000000000
+      internalID: 5509798146208935285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 93
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e845cd2cd124c0800000000000000
+      internalID: -4313924878902697621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_25
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 93
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba3ddf948a0fa140800000000000000
+      internalID: 4733013298123717310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 60
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f41b06c445904e0800000000000000
+      internalID: -2014986671255105636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 60
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34492a9ec74fd1160800000000000000
+      internalID: 6998018213336486979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 60
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a92c90347e3b0c0800000000000000
+      internalID: -4561047722483606978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_29
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 14
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95752429efb6dcf40800000000000000
+      internalID: 5750371040341677913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 14
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed813bfe67df0e2e0800000000000000
+      internalID: -2098398739085190946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 14
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b176dc045e128d0800000000000000
+      internalID: -2872763020798911595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bald_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a668fb47a76fd24d0800000000000000
+      internalID: -3157596757911697814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bald_0: 3742976054023078668
+      Bald_1: -215975794638626156
+      Bald_10: -497640682862739317
+      Bald_11: 1570215495444678269
+      Bald_12: -4140807566089638426
+      Bald_13: 3362242132789832579
+      Bald_14: 1346997407566068393
+      Bald_15: 2079787797711341907
+      Bald_16: 4455898055581990
+      Bald_17: 6879024248727849391
+      Bald_18: 3657363132713728658
+      Bald_19: -3449266170260654525
+      Bald_2: 6615254211857614271
+      Bald_20: 1587263664526281060
+      Bald_21: -332857823334881469
+      Bald_22: -2318237526407193905
+      Bald_23: 5509798146208935285
+      Bald_24: -4313924878902697621
+      Bald_25: 4733013298123717310
+      Bald_26: -2014986671255105636
+      Bald_27: 6998018213336486979
+      Bald_28: -4561047722483606978
+      Bald_29: 5750371040341677913
+      Bald_3: -5570688764576475353
+      Bald_30: -2098398739085190946
+      Bald_31: -2872763020798911595
+      Bald_32: -3157596757911697814
+      Bald_4: -4140480694768368141
+      Bald_5: 3358162164892074449
+      Bald_6: -3550685640561052547
+      Bald_7: 8631331035877584666
+      Bald_8: 9058925517294390772
+      Bald_9: -1118219264946793906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: 0a1a211474749ea4f96f76a3335dd679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7808942633454747069
+    second: Trees and Bushes_0
+  - first:
+      213: -5191480663094518769
+    second: Trees and Bushes_1
+  - first:
+      213: -6175670182784741694
+    second: Trees and Bushes_2
+  - first:
+      213: -4207492569556814520
+    second: Trees and Bushes_3
+  - first:
+      213: -5453140196871991882
+    second: Trees and Bushes_4
+  - first:
+      213: 4548404351552064915
+    second: Trees and Bushes_5
+  - first:
+      213: 9163453233407070128
+    second: Trees and Bushes_6
+  - first:
+      213: -3971967315614817506
+    second: Trees and Bushes_7
+  - first:
+      213: -8002130659992612718
+    second: Trees and Bushes_8
+  - first:
+      213: -4305648243501212188
+    second: Trees and Bushes_9
+  - first:
+      213: 2914095550922898803
+    second: Trees and Bushes_10
+  - first:
+      213: -8758912666439357734
+    second: Trees and Bushes_11
+  - first:
+      213: 5448517438162390205
+    second: Trees and Bushes_12
+  - first:
+      213: 4430334849668508229
+    second: Trees and Bushes_13
+  - first:
+      213: 8796976782056527057
+    second: Trees and Bushes_14
+  - first:
+      213: 7267857925445342943
+    second: Trees and Bushes_15
+  - first:
+      213: 3361077788495443860
+    second: Trees and Bushes_16
+  - first:
+      213: -5831956001906085983
+    second: Trees and Bushes_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trees and Bushes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd397a93ffee5c60800000000000000
+      internalID: 7808942633454747069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c11f1b7d724f7b0800000000000000
+      internalID: -5191480663094518769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 256
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec42950bc9b4aa0800000000000000
+      internalID: -6175670182784741694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 256
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845787cdccbfb95c0800000000000000
+      internalID: -4207492569556814520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 256
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd8a0702ed8254b0800000000000000
+      internalID: -5453140196871991882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d0a15c8ad2f1f30800000000000000
+      internalID: 4548404351552064915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 192
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf022d6a202b2f70800000000000000
+      internalID: 9163453233407070128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 192
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13215555ccb0e8c0800000000000000
+      internalID: -3971967315614817506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 192
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d0e4df88b2f090800000000000000
+      internalID: -8002130659992612718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed535e1cb34f34c0800000000000000
+      internalID: -4305648243501212188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 128
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d3e4ac672f07820800000000000000
+      internalID: 2914095550922898803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_11
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 128
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada663a2657127680800000000000000
+      internalID: -8758912666439357734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 47
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcc0361eb50d9b40800000000000000
+      internalID: 5448517438162390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 63
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a6686a216bb7d30800000000000000
+      internalID: 4430334849668508229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 63
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d496df56c3251a70800000000000000
+      internalID: 8796976782056527057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65d24c64e9cd460800000000000000
+      internalID: 7267857925445342943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f9bdd072f4ae20800000000000000
+      internalID: 3361077788495443860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trees and Bushes_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af2ea05aeab01fa0800000000000000
+      internalID: -5831956001906085983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Trees and Bushes_0: 7808942633454747069
+      Trees and Bushes_1: -5191480663094518769
+      Trees and Bushes_10: 2914095550922898803
+      Trees and Bushes_11: -8758912666439357734
+      Trees and Bushes_12: 5448517438162390205
+      Trees and Bushes_13: 4430334849668508229
+      Trees and Bushes_14: 8796976782056527057
+      Trees and Bushes_15: 7267857925445342943
+      Trees and Bushes_16: 3361077788495443860
+      Trees and Bushes_17: -5831956001906085983
+      Trees and Bushes_2: -6175670182784741694
+      Trees and Bushes_3: -4207492569556814520
+      Trees and Bushes_4: -5453140196871991882
+      Trees and Bushes_5: 4548404351552064915
+      Trees and Bushes_6: 9163453233407070128
+      Trees and Bushes_7: -3971967315614817506
+      Trees and Bushes_8: -8002130659992612718
+      Trees and Bushes_9: -4305648243501212188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
