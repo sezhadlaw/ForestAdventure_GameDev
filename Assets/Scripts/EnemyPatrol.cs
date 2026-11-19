@@ -3,9 +3,20 @@ using UnityEngine;
 
 public class EnemyPatrol : MonoBehaviour
 {
-    public float moveSpeed = 2f;
-    public float patrolDistance = 2f;
-    public int damage = 1;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            moveSpeed = stats.moveSpeed;
+            patrolDistance = stats.patrolDistance;
+            damage = stats.damage;
+        }
+    }
+
+    public EnemyPatrolStats stats;
+    [HideInInspector] public float moveSpeed;
+    [HideInInspector] public float patrolDistance;
+    [HideInInspector] public int damage;
 
     private Vector3 startPosition;
     private int direction = 1;

@@ -4,11 +4,21 @@ using UnityEngine.UI;
 
 public class BossHealth : MonoBehaviour
 {
-    public int maxHealth = 3;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            maxHealth = stats.maxHealth;
+        }
+    }
+
+    public BossHealthStats stats;
+    [HideInInspector] public int maxHealth;
     public Slider healthBar;
     public WinScreen winScreen;
 
     private int currentHealth;
+    public int Health => currentHealth;
 
     void Start()
     {
@@ -44,8 +54,8 @@ public class BossHealth : MonoBehaviour
     {
         Debug.Log("Boss defeated!");
 
-        if (winScreen != null)
-            winScreen.ShowWin();
+        if (LevelLoader.Instance != null) LevelLoader.Instance.DefeatBoss();
+        else if (winScreen != null) winScreen.ShowWin();
 
         Destroy(gameObject);
     }

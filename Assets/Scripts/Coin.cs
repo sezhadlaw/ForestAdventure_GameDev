@@ -10,6 +10,7 @@ public class Coin : MonoBehaviour
         {
             IsCollected = true;
             GameAudio.PlayCoin();
+            if (LevelLoader.Instance != null) LevelLoader.Instance.AddCoin();
             CoinManager manager =
                 FindFirstObjectByType<CoinManager>();
 
@@ -19,6 +20,7 @@ public class Coin : MonoBehaviour
             }
 
             Destroy(gameObject);
+            if (LevelLoader.Instance != null && LevelLoader.Instance.BossDefeated) LevelLoader.Instance.TryComplete();
         }
     }
 }

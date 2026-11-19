@@ -3,15 +3,23 @@ using UnityEngine;
 
 public class BossBullet : MonoBehaviour
 {
-    public float speed = 6f;
-    public float lifetime = 5f;
-    public int damage = 1;
+    public BossBulletStats stats;
+    [HideInInspector] public float speed;
+    [HideInInspector] public float lifetime;
+    [HideInInspector] public int damage;
 
     private Vector2 direction;
     private Rigidbody2D rb;
 
     void Awake()
     {
+        if (stats != null)
+        {
+            speed = stats.speed;
+            lifetime = stats.lifetime;
+            damage = stats.damage;
+        }
+
         rb = GetComponent<Rigidbody2D>();
     }
 

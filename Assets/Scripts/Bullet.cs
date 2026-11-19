@@ -3,9 +3,10 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float speed = 18f;
-    public float lifetime = 3f;
-    public int damage = 1;
+    public BulletStats stats;
+    [HideInInspector] public float speed;
+    [HideInInspector] public float lifetime;
+    [HideInInspector] public int damage;
 
     private Vector2 direction = Vector2.right;
     private Rigidbody2D rb;
@@ -15,6 +16,13 @@ public class Bullet : MonoBehaviour
 
     void Awake()
     {
+        if (stats != null)
+        {
+            speed = stats.speed;
+            lifetime = stats.lifetime;
+            damage = stats.damage;
+        }
+
         rb = GetComponent<Rigidbody2D>();
         hitbox = GetComponent<Collider2D>();
 

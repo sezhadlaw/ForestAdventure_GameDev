@@ -19,7 +19,7 @@ public class CoinManager : MonoBehaviour
         }
     }
 
-    void Awake()
+    void Start()
     {
         totalCoins = FindObjectsByType<Coin>(
             FindObjectsSortMode.None

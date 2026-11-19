@@ -26,9 +26,11 @@ public class LevelExit : MonoBehaviour
         {
             if (!CoinManager.AllCoinsCollected)
             {
-                hintUntil = Time.time + 2f;
+                if (AdventureUI.Instance != null) AdventureUI.Instance.Hint("Collect all coins to finish");
+                else hintUntil = Time.time + 2f;
                 return;
             }
+            if (LevelLoader.Instance != null) { LevelLoader.Instance.TryComplete(); return; }
             isLoading = true;
             SceneManager.LoadScene(nextSceneName);
         }

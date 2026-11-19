@@ -41,10 +41,16 @@ public class GameAudio : MonoBehaviour
     {
         bool menu = scene.name == "MainMenu";
         AudioClip next = menu ? menuLoop : gameLoop;
-        music.volume = menu ? MenuVolume : GameVolume;
+        music.volume = (menu ? MenuVolume : GameVolume) * (SaveManager.Instance == null ? 1 : SaveManager.Instance.Data.musicVolume);
+        effects.volume = SaveManager.Instance == null ? 1 : SaveManager.Instance.Data.effectsVolume;
         if (music.clip == next && music.isPlaying) return;
         music.clip = next;
         music.Play();
+    }
+
+    public static void RefreshVolume()
+    {
+        if (instance != null) instance.OnSceneLoaded(SceneManager.GetActiveScene(), LoadSceneMode.Single);
     }
 
     public static void PlayCoin() { if (instance != null) instance.effects.PlayOneShot(instance.coinSound, 0.65f); }

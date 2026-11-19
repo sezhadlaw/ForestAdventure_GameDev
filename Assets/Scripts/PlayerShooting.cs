@@ -4,9 +4,18 @@ using UnityEngine.InputSystem;
 
 public class PlayerShooting : MonoBehaviour
 {
+    void Awake()
+    {
+        if (stats != null)
+        {
+            fireCooldown = stats.fireCooldown;
+        }
+    }
+
+    public PlayerShootingStats stats;
     public GameObject bulletPrefab;
     public Transform firePoint;
-    public float fireCooldown = 0.3f;
+    [HideInInspector] public float fireCooldown;
 
     private float nextFireTime;
     private int facingDirection = 1;
@@ -40,7 +49,7 @@ public class PlayerShooting : MonoBehaviour
 
         Vector3 spawnPosition = firePoint.position;
         spawnPosition.x = transform.position.x +
-                          facingDirection * 0.8f;
+                          facingDirection * stats.spawnOffset;
 
         GameObject newBullet = Instantiate(
             bulletPrefab,

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edd3d4f186d6cb54c9ec1f3f7178561a, type: 3}
+  m_Name: Level2_Shelf_Mushroom_ForestShooter_1
+  m_EditorClassIdentifier: Assembly-CSharp::ForestShooterStats
+  moveSpeed: 1.5
+  preferredDistance: 4
+  moveTime: 0.45
+  aimTime: 0.65
+  cooldown: 1.6
+  shotSpeed: 4.5
+  shotLife: 2.5
+  shotScale: 0.22
+  damage: 1
