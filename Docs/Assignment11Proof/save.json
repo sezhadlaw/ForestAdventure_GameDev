@@ -1,0 +1,23 @@
+{
+    "version": 1,
+    "bestScore": 2170,
+    "totalCoins": 13,
+    "lastLevel": 2,
+    "unlockedLevels": [
+        1,
+        2,
+        3
+    ],
+    "completedLevels": [
+        1,
+        2,
+        3
+    ],
+    "levelScores": [
+        1755,
+        1930,
+        2170
+    ],
+    "musicVolume": 1.0,
+    "effectsVolume": 0.8739575743675232
+}

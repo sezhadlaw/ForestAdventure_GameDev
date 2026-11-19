@@ -1,5 +1,5 @@
 {
   "name": "ForestAdventure.PlayModeTests",
-  "references": [],
+  "references": ["Unity.InputSystem", "UnityEngine.UI"],
   "optionalUnityReferences": ["TestAssemblies"]
 }
