@@ -4,9 +4,18 @@ using UnityEngine;
 
 public class BossAttack : MonoBehaviour
 {
+    void Awake()
+    {
+        if (stats != null)
+        {
+            attackInterval = stats.attackInterval;
+        }
+    }
+
+    public BossAttackStats stats;
     public GameObject bossBulletPrefab;
     public Transform player;
-    public float attackInterval = 2f;
+    [HideInInspector] public float attackInterval;
 
     private Coroutine attackRoutine;
 
@@ -23,7 +32,7 @@ public class BossAttack : MonoBehaviour
 
     IEnumerator AttackLoop()
     {
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(stats.initialDelay);
 
         while (true)
         {
@@ -44,7 +53,7 @@ public class BossAttack : MonoBehaviour
         float side = player.position.x < transform.position.x
             ? -1f : 1f;
 
-        spawnPosition.x += side * 1.5f;
+        spawnPosition.x += side * stats.spawnOffset;
 
         GameObject newBullet = Instantiate(
             bossBulletPrefab,

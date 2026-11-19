@@ -3,7 +3,16 @@ using UnityEngine;
 
 public class SpikeDamage : MonoBehaviour
 {
-    public int damage = 1;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            damage = stats.damage;
+        }
+    }
+
+    public SpikeDamageStats stats;
+    [HideInInspector] public int damage;
 
     private void OnTriggerStay2D(Collider2D other)
     {

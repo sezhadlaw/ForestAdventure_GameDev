@@ -4,8 +4,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float moveSpeed = 5f;
-    public float jumpForce = 14f;
+    public PlayerControllerStats stats;
+    [HideInInspector] public float moveSpeed;
+    [HideInInspector] public float jumpForce;
     public LayerMask groundLayer;
 
     private Rigidbody2D rb;
@@ -15,6 +16,12 @@ public class PlayerController : MonoBehaviour
 
     void Awake()
     {
+        if (stats != null)
+        {
+            moveSpeed = stats.moveSpeed;
+            jumpForce = stats.jumpForce;
+        }
+
         rb = GetComponent<Rigidbody2D>();
         playerCollider = GetComponent<Collider2D>();
         if (GetComponent<PlayerAnimation>() == null) gameObject.AddComponent<PlayerAnimation>();

@@ -3,8 +3,18 @@ using UnityEngine;
 
 public class MovingPlatform : MonoBehaviour
 {
-    public float moveSpeed = 1.5f;
-    public float moveDistance = 2f;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            moveSpeed = stats.moveSpeed;
+            moveDistance = stats.moveDistance;
+        }
+    }
+
+    public MovingPlatformStats stats;
+    [HideInInspector] public float moveSpeed;
+    [HideInInspector] public float moveDistance;
 
     private Vector3 startPosition;
 

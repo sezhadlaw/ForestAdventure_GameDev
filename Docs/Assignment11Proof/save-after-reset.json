@@ -1,0 +1,17 @@
+{
+    "version": 1,
+    "bestScore": 0,
+    "totalCoins": 0,
+    "lastLevel": 1,
+    "unlockedLevels": [
+        1
+    ],
+    "completedLevels": [],
+    "levelScores": [
+        0,
+        0,
+        0
+    ],
+    "musicVolume": 1.0,
+    "effectsVolume": 1.0
+}

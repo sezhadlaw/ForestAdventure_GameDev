@@ -6,12 +6,23 @@ using TMPro;
 
 public class PlayerHealth : MonoBehaviour
 {
-    public int maxHealth = 3;
-    public float invincibilityTime = 1.5f;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            maxHealth = stats.maxHealth;
+            invincibilityTime = stats.invincibilityTime;
+        }
+    }
+
+    public PlayerHealthStats stats;
+    [HideInInspector] public int maxHealth;
+    [HideInInspector] public float invincibilityTime;
 
     public TextMeshProUGUI healthText;
 
     private int currentHealth;
+    public int Health => currentHealth;
     private bool isInvincible;
     private SpriteRenderer[] spriteRenderers;
     private bool[] initialVisibility;
@@ -96,9 +107,8 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        SceneManager.LoadScene(
-            SceneManager.GetActiveScene().buildIndex
-        );
+        if (LevelLoader.Instance != null) LevelLoader.Instance.Fail("Try again");
+        else SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     void SetSpritesVisible(bool visible)
@@ -108,3 +118,4 @@ public class PlayerHealth : MonoBehaviour
                 spriteRenderers[i].enabled = visible && initialVisibility[i];
     }
 }
+

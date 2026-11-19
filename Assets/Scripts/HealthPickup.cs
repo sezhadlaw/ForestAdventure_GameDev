@@ -3,7 +3,16 @@ using UnityEngine;
 
 public class HealthPickup : MonoBehaviour
 {
-    public int healAmount = 1;
+    void Awake()
+    {
+        if (stats != null)
+        {
+            healAmount = stats.healAmount;
+        }
+    }
+
+    public HealthPickupStats stats;
+    [HideInInspector] public int healAmount;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

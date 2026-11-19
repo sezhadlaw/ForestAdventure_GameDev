@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="665" viewBox="0 0 1120 665" role="img" aria-labelledby="title desc">
+<title id="title">Forest Adventure: enemy states</title><desc id="desc">All three enemies use EnemySight. The guard strikes, the mushroom launches ForestSpore, and the slime dashes. Each attack can reduce PlayerHealth.</desc>
+<defs><marker id="tip" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1 1L9 5L1 9" fill="none" stroke="#9eb4be"/></marker></defs>
+<rect width="1120" height="665" rx="24" fill="#102329"/>
+<g font-family="Segoe UI,Arial,sans-serif" fill="#e6f2f1">
+<text x="40" y="50" font-size="32" font-weight="bold">Forest Adventure · Three enemies</text>
+<text x="40" y="82" font-size="19" fill="#a1bbc1">Level 1  /  Sense → Decide → Act</text>
+<rect x="40" y="111" width="1040" height="70" rx="12" fill="#25434d"/>
+<text x="59" y="141" font-size="23" font-weight="bold">EnemySight</text>
+<text x="59" y="167" font-size="17">Distance → angle → raycast against Ground. Camera visibility gates attacks.</text>
+<rect x="40" y="208" width="1040" height="93" rx="12" fill="#1d353d"/>
+<rect x="40" y="220" width="5" height="68" fill="#f0ce80"/>
+<text x="60" y="244" fill="#f0ce80" font-size="22" font-weight="bold">Skeleton Guard</text>
+<text x="330" y="244" font-size="22">Patrol → Chase → WindUp → Rest</text>
+<text x="330" y="275" fill="#b7cdd0" font-size="17">Hit only if still in reach. Rest → Patrol.</text>
+<rect x="40" y="317" width="1040" height="93" rx="12" fill="#1d353d"/>
+<rect x="40" y="329" width="5" height="68" fill="#a7dc91"/>
+<text x="60" y="353" fill="#a7dc91" font-size="22" font-weight="bold">Spore Mushroom</text>
+<text x="330" y="353" font-size="22">Idle → KeepDistance → Aim → Rest</text>
+<text x="330" y="384" fill="#b7cdd0" font-size="17">Aim locks the line. Rest → Idle.</text>
+<rect x="40" y="426" width="1040" height="93" rx="12" fill="#1d353d"/>
+<rect x="40" y="438" width="5" height="68" fill="#89cde7"/>
+<text x="60" y="462" fill="#89cde7" font-size="22" font-weight="bold">Charging Slime</text>
+<text x="330" y="462" font-size="22">Idle → WindUp → Dash → Stunned</text>
+<text x="330" y="493" fill="#b7cdd0" font-size="17">Dash keeps its direction. Stunned → Idle.</text>
+<path d="M560 527v27" stroke="#9eb4be" stroke-width="3" marker-end="url(#tip)"/>
+<rect x="40" y="565" width="1040" height="71" rx="12" fill="#25434d"/>
+<text x="60" y="595" font-size="22" font-weight="bold">PlayerHealth.TakeDamage</text>
+<text x="60" y="621" font-size="17">Guard: melee range   ·   Mushroom: ForestSpore hits the player   ·   Slime: dash contact</text>
+</g></svg>
