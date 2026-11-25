@@ -115,15 +115,36 @@ public class GameplayTests
     }
 
     [UnityTest]
-    public IEnumerator MusicChangesAndGameplayIsQuieter()
+    public IEnumerator MusicCrossfadesBetweenMenuAndLevel()
     {
-        var audio = Find("GameAudio");
-        var source = (AudioSource)Field(audio, "music");
-        var gameClip = source.clip;
-        float gameVolume = source.volume;
+        var music = Find("MusicManager");
+        var current = (AudioSource)music.GetType().GetProperty("Current").GetValue(music);
+        Assert.AreEqual(music.GetType().GetProperty("LevelTrack").GetValue(music), current.clip, "levels play the level track");
+        Assert.AreEqual("Tracks", current.outputAudioMixerGroup.name);
+
         yield return SceneManager.LoadSceneAsync("MainMenu");
-        Assert.AreNotEqual(gameClip, source.clip);
-        Assert.Greater(source.volume, gameVolume);
-        Assert.AreEqual(1, Object.FindObjectsByType(GameType("GameAudio"), FindObjectsSortMode.None).Length);
+        var menuSource = (AudioSource)music.GetType().GetProperty("Current").GetValue(music);
+        Assert.AreEqual(music.GetType().GetProperty("MenuTrack").GetValue(music), menuSource.clip, "the menu plays the menu track");
+        Assert.AreNotSame(current, menuSource, "the new track starts on the second source");
+        yield return new WaitForSecondsRealtime(0.5f);
+        Assert.That(menuSource.volume, Is.InRange(0.2f, 0.8f), "halfway through the 1 s crossfade");
+        Assert.That(current.volume, Is.InRange(0.2f, 0.8f));
+        yield return new WaitForSecondsRealtime(0.7f);
+        Assert.AreEqual(1f, menuSource.volume);
+        Assert.IsFalse(current.isPlaying, "the old track stops after the fade");
+        Assert.AreEqual(1, Object.FindObjectsByType(GameType("MusicManager"), FindObjectsSortMode.None).Length);
+    }
+
+    [UnityTest]
+    public IEnumerator RetryKeepsTheLevelMusicPlaying()
+    {
+        var music = Find("MusicManager");
+        yield return new WaitForSecondsRealtime(1.2f);
+        var before = (AudioSource)music.GetType().GetProperty("Current").GetValue(music);
+        yield return SceneManager.LoadSceneAsync("Level3");
+        var after = (AudioSource)music.GetType().GetProperty("Current").GetValue(music);
+        Assert.AreSame(before, after, "no crossfade and no restart when the same track is requested");
+        Assert.AreEqual(1f, after.volume);
+        Assert.AreEqual(1, Object.FindObjectsByType(GameType("MusicManager"), FindObjectsSortMode.None).Length);
     }
 }
