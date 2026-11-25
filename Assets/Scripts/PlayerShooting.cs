@@ -57,6 +57,7 @@ public class PlayerShooting : MonoBehaviour
             Quaternion.identity
         );
         GetComponent<PlayerAnimation>()?.PlayShot(facingDirection);
+        SoundManager.Play(Sfx.Shoot, 0.8f);
 
         Collider2D bulletCollider =
             newBullet.GetComponent<Collider2D>();

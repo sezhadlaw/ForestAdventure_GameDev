@@ -9,7 +9,7 @@ public class Coin : MonoBehaviour
         if (!IsCollected && other.GetComponentInParent<PlayerController>() != null)
         {
             IsCollected = true;
-            GameAudio.PlayCoin();
+            SoundManager.Play(Sfx.Coin, 0.8f);
             if (LevelLoader.Instance != null) LevelLoader.Instance.AddCoin();
             CoinManager manager =
                 FindFirstObjectByType<CoinManager>();

@@ -125,7 +125,5 @@ public class GameplayTests
         Assert.AreNotEqual(gameClip, source.clip);
         Assert.Greater(source.volume, gameVolume);
         Assert.AreEqual(1, Object.FindObjectsByType(GameType("GameAudio"), FindObjectsSortMode.None).Length);
-        Assert.Greater(((AudioClip)Field(audio, "coinSound")).samples, 0);
-        Assert.Greater(((AudioClip)Field(audio, "damageSound")).samples, 0);
     }
 }

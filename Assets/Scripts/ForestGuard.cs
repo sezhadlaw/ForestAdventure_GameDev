@@ -39,6 +39,7 @@ public class ForestGuard : MonoBehaviour
         state = next;
         timer = 0;
         lost = 0;
+        if (next == State.WindUp) SoundManager.Play(Sfx.WindupGuard);
         sight.visual.color = next == State.WindUp ? sight.warningColor :
             next == State.Rest ? sight.restColor : next == State.Chase ? Color.yellow : Color.white;
     }
