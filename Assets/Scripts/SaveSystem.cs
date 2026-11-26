@@ -28,11 +28,12 @@ public static class SaveSystem
             if (data == null || data.version != 1 || data.unlockedLevels == null ||
                 !data.unlockedLevels.Contains(1) || data.levelScores == null || data.levelScores.Count != LevelData.Count ||
                 data.completedLevels == null || data.bestScore < 0 || data.totalCoins < 0 ||
-                !float.IsFinite(data.musicVolume) || !float.IsFinite(data.effectsVolume))
+                !float.IsFinite(data.masterVolume) || !float.IsFinite(data.musicVolume) || !float.IsFinite(data.effectsVolume))
                 throw new InvalidDataException("Invalid save data");
             data.unlockedLevels.RemoveAll(level => level < 1 || level > LevelData.Count);
             data.completedLevels.RemoveAll(level => level < 1 || level > LevelData.Count);
             data.lastLevel = Mathf.Clamp(data.lastLevel, 1, LevelData.Count);
+            data.masterVolume = Mathf.Clamp01(data.masterVolume);
             data.musicVolume = Mathf.Clamp01(data.musicVolume);
             data.effectsVolume = Mathf.Clamp01(data.effectsVolume);
             return data;

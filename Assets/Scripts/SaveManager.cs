@@ -5,6 +5,7 @@ public class SaveManager : MonoBehaviour
     public static SaveManager Instance { get; private set; }
     public SaveData Data { get; private set; }
     public bool Saved { get; private set; } = true;
+    private float volumeSaveAt = -1;
 
     [RuntimeInitializeOnLoadMethod(RuntimeInitializeLoadType.SubsystemRegistration)]
     static void ResetInstance() => Instance = null;
@@ -40,15 +41,33 @@ public class SaveManager : MonoBehaviour
         Save();
     }
 
-    public void SetVolume(float music, float effects)
+    // Called on every slider move: the mixer changes at once, the file is written
+    // once the slider stops for half a second (and on Back, pause and quit), not on every frame of a drag.
+    public void SetVolume(float master, float music, float effects)
     {
+        Data.masterVolume = Mathf.Clamp01(master);
         Data.musicVolume = Mathf.Clamp01(music);
         Data.effectsVolume = Mathf.Clamp01(effects);
+        MusicManager.ApplyVolumes();
+        volumeSaveAt = Time.unscaledTime + 0.5f;
+    }
+
+    public void SetVolume(float music, float effects) => SetVolume(Data.masterVolume, music, effects);
+
+    // Writes pending volume changes now.
+    public void SaveVolume()
+    {
+        volumeSaveAt = -1;
+        PlayerPrefs.SetFloat("Forest.Master", Data.masterVolume);
         PlayerPrefs.SetFloat("Forest.Music", Data.musicVolume);
         PlayerPrefs.SetFloat("Forest.Effects", Data.effectsVolume);
         PlayerPrefs.Save();
         Save();
-        GameAudio.RefreshVolume();
+    }
+
+    void Update()
+    {
+        if (volumeSaveAt > 0 && Time.unscaledTime >= volumeSaveAt) SaveVolume();
     }
 
     public bool ResetProgress()
@@ -58,15 +77,17 @@ public class SaveManager : MonoBehaviour
         if (!SaveSystem.Delete()) { Saved = false; return false; }
         Data = defaults;
         SaveSystem.UsedDefaults = false;
+        volumeSaveAt = -1;
+        PlayerPrefs.DeleteKey("Forest.Master");
         PlayerPrefs.DeleteKey("Forest.Music");
         PlayerPrefs.DeleteKey("Forest.Effects");
         PlayerPrefs.Save();
         Saved = true;
-        GameAudio.RefreshVolume();
+        MusicManager.ApplyVolumes();
         return true;
     }
 
-    void OnApplicationPause(bool paused) { if (paused) Save(); }
-    void OnApplicationFocus(bool focused) { if (!focused) Save(); }
-    void OnApplicationQuit() => Save();
+    void OnApplicationPause(bool paused) { if (paused) SaveVolume(); }
+    void OnApplicationFocus(bool focused) { if (!focused) SaveVolume(); }
+    void OnApplicationQuit() => SaveVolume();
 }

@@ -46,7 +46,7 @@ public class PlayerHealth : MonoBehaviour
             return;
 
         currentHealth = Mathf.Max(currentHealth - damage, 0);
-        GameAudio.PlayDamage();
+        SoundManager.Play(currentHealth > 0 ? Sfx.Hurt : Sfx.Death);
 
         UpdateHealthUI();
 
@@ -68,6 +68,7 @@ public class PlayerHealth : MonoBehaviour
             return false;
 
         currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+        SoundManager.Play(Sfx.Heal);
 
         UpdateHealthUI();
 
@@ -107,7 +108,7 @@ public class PlayerHealth : MonoBehaviour
 
     void Die()
     {
-        if (LevelLoader.Instance != null) LevelLoader.Instance.Fail("Try again");
+        if (LevelLoader.Instance != null) LevelLoader.Instance.Fail("Try again", true);
         else SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 

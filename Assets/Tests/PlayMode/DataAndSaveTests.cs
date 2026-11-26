@@ -50,12 +50,14 @@ public class DataAndSaveTests
         Assert.IsTrue((bool)managerType.GetMethod("ResetProgress").Invoke(manager, null));
         managerType.GetMethod("CompleteLevel").Invoke(manager, new object[] { 1, 1200, 4 });
         managerType.GetMethod("CompleteLevel").Invoke(manager, new object[] { 1, 900, 4 });
-        managerType.GetMethod("SetVolume").Invoke(manager, new object[] { 0.3f, 0.6f });
+        managerType.GetMethod("SetVolume", new[] { typeof(float), typeof(float), typeof(float) }).Invoke(manager, new object[] { 0.9f, 0.3f, 0.6f });
+        managerType.GetMethod("SaveVolume").Invoke(manager, null);
         var data = TypeOf("SaveSystem").GetMethod("Load").Invoke(null, new object[] { null });
         Assert.AreEqual(1200, Get(data, "bestScore"));
         Assert.AreEqual(4, Get(data, "totalCoins"));
         CollectionAssert.Contains((IEnumerable)Get(data, "unlockedLevels"), 2);
         Assert.AreEqual(0.3f, Get(data, "musicVolume"));
+        Assert.AreEqual(0.9f, Get(data, "masterVolume"));
         Assert.IsTrue((bool)managerType.GetMethod("ResetProgress").Invoke(manager, null));
         managerType.GetMethod("Save").Invoke(manager, null);
         data = TypeOf("SaveSystem").GetMethod("Load").Invoke(null, new object[] { null });

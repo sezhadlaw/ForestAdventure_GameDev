@@ -45,6 +45,7 @@ public class ForestShooter : MonoBehaviour
         state = next;
         timer = 0;
         aimLine.enabled = next == State.Aim;
+        if (next == State.Aim) SoundManager.Play(Sfx.WindupShooter);
         sight.visual.color = next == State.Aim ? sight.warningColor :
             next == State.Rest ? sight.restColor : Color.white;
         if (next == State.Aim)

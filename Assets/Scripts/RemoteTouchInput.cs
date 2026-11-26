@@ -16,13 +16,19 @@ public class RemoteTouchInput : MonoBehaviour
     private static void StartRemoteInput()
     {
         if (Application.isBatchMode) return;
+        EditorSettings.unityRemoteCompression = "JPEG";
+        EditorSettings.unityRemoteResolution = "Downsize";
         var helper = new GameObject("Unity Remote Touch");
         DontDestroyOnLoad(helper);
         helper.AddComponent<RemoteTouchInput>();
     }
 
-    private void Update()
+    private void OnEnable() => InputSystem.onBeforeUpdate += ReadRemoteTouches;
+
+    private void ReadRemoteTouches()
     {
+        // Передаём касание до обработки ввода, без ожидания следующего кадра.
+        if (InputState.currentUpdateType != InputUpdateType.Dynamic) return;
         if (!EditorApplication.isRemoteConnected)
         {
             EndRemote();
@@ -93,6 +99,7 @@ public class RemoteTouchInput : MonoBehaviour
 
     private void OnDisable()
     {
+        InputSystem.onBeforeUpdate -= ReadRemoteTouches;
         EndRemote();
         RemovePhone();
     }

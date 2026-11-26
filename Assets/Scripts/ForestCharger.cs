@@ -37,6 +37,7 @@ public class ForestCharger : MonoBehaviour
     {
         state = next;
         timer = 0;
+        if (next == State.WindUp) SoundManager.Play(Sfx.WindupCharger);
         sight.visual.color = next == State.WindUp ? sight.warningColor :
             next == State.Stunned ? sight.restColor : next == State.Dash ? Color.yellow : Color.white;
     }

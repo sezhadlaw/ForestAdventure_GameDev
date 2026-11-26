@@ -86,7 +86,7 @@ public static class Assignment11Setup
                 Object.DestroyImmediate(group);
             }
             data.enemies = spawns.ToArray();
-            foreach (var stick in Object.FindObjectsByType<OnScreenStick>(FindObjectsSortMode.None)) stick.useIsolatedInputActions = true;
+            foreach (var stick in Object.FindObjectsByType<OnScreenStick>(FindObjectsSortMode.None)) { stick.useIsolatedInputActions = true; stick.movementRange = 28; }
             foreach (var control in Object.FindObjectsByType<OnScreenButton>(FindObjectsSortMode.None))
             {
                 foreach (var oldLabel in control.GetComponentsInChildren<TextMeshProUGUI>(true)) oldLabel.gameObject.SetActive(false);

@@ -62,14 +62,17 @@ public class LevelLoader : MonoBehaviour
         Score = Current.completionScore + Coins * Current.coinScore + Mathf.FloorToInt(Remaining) * Current.secondScore;
         SaveManager.Instance.CompleteLevel(Current.levelNumber, Score, Coins);
         Time.timeScale = 0;
+        SoundManager.Play(Sfx.Win);
         AdventureUI.Instance.ShowResult(true, "Level complete");
     }
 
-    public void Fail(string reason)
+    public void Fail(string reason, bool playerDied = false)
     {
         if (Finished) return;
         Finished = true;
         Time.timeScale = 0;
+        // After a death the lose jingle waits for the death sound to fade.
+        SoundManager.Play(Sfx.Lose, 1f, playerDied ? 0.6f : 0f);
         AdventureUI.Instance.ShowResult(false, reason);
     }
 

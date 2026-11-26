@@ -18,9 +18,20 @@ public class BossAttack : MonoBehaviour
     [HideInInspector] public float attackInterval;
 
     private Coroutine attackRoutine;
+    private SpriteRenderer visual;
+    private Color normalColor = Color.white;
+
+    // The wind-up sound and a red tint start this long before every shot, so the player hears the attack first.
+    public const float WindUpTime = 0.6f;
+    static readonly Color WarningColor = new Color(1f, 0.35f, 0.25f);
 
     void OnEnable()
     {
+        if (visual == null)
+        {
+            visual = GetComponentInChildren<SpriteRenderer>();
+            if (visual != null) normalColor = visual.color;
+        }
         attackRoutine = StartCoroutine(AttackLoop());
     }
 
@@ -28,6 +39,7 @@ public class BossAttack : MonoBehaviour
     {
         if (attackRoutine != null)
             StopCoroutine(attackRoutine);
+        if (visual != null) visual.color = normalColor;
     }
 
     IEnumerator AttackLoop()
@@ -36,9 +48,15 @@ public class BossAttack : MonoBehaviour
 
         while (true)
         {
+            // Wind-up: sound and tint first, the shot comes WindUpTime later.
+            SoundManager.Play(Sfx.WindupBoss);
+            if (visual != null) visual.color = WarningColor;
+            yield return new WaitForSeconds(WindUpTime);
+
+            if (visual != null) visual.color = normalColor;
             Shoot();
 
-            yield return new WaitForSeconds(attackInterval);
+            yield return new WaitForSeconds(Mathf.Max(0.1f, attackInterval - WindUpTime));
         }
     }
 

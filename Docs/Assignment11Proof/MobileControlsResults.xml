@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" testcasecount="14" result="Passed" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:55Z" duration="10,6060886">
+  <test-suite type="TestSuite" id="1024" name="ForestAdventure" fullname="ForestAdventure" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:55Z" duration="10.606089" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="platform" value="PlayMode" />
+    </properties>
+    <test-suite type="Assembly" id="1044" name="ForestAdventure.PlayModeTests.dll" fullname="C:/UnityProjects/ForestAssignment11Check/Library/ScriptAssemblies/ForestAdventure.PlayModeTests.dll" runstate="Runnable" testcasecount="14" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:55Z" duration="10.591266" total="14" passed="14" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <properties>
+        <property name="_PID" value="18600" />
+        <property name="_APPDOMAIN" value="Unity Child Domain" />
+        <property name="platform" value="PlayMode" />
+        <property name="EditorOnly" value="False" />
+      </properties>
+      <output><![CDATA[There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+]]></output>
+      <test-suite type="TestFixture" id="1025" name="DataAndSaveTests" fullname="DataAndSaveTests" classname="DataAndSaveTests" runstate="Runnable" testcasecount="3" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:47Z" duration="2.535977" total="3" passed="3" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <output><![CDATA[There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+]]></output>
+        <test-case id="1027" name="CompletionSettingsAndResetSurviveReload" fullname="DataAndSaveTests.CompletionSettingsAndResetSurviveReload" methodname="CompletionSettingsAndResetSurviveReload" classname="DataAndSaveTests" runstate="Runnable" seed="1895892631" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:45Z" duration="0.272511" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+There are no audio listeners in the scene. Please ensure there is always one audio listener in the scene
+]]></output>
+        </test-case>
+        <test-case id="1026" name="JsonRoundTripAndBrokenFile" fullname="DataAndSaveTests.JsonRoundTripAndBrokenFile" methodname="JsonRoundTripAndBrokenFile" classname="DataAndSaveTests" runstate="Runnable" seed="677990461" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:45Z" duration="0.033718" asserts="0">
+          <properties>
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Save reset to defaults: Empty save
+Save reset to defaults: Empty save
+Save reset to defaults: Empty save
+Save reset to defaults: Empty save
+Save reset to defaults: Empty save
+Save reset to defaults: Empty save
+Save reset to defaults: Invalid save data
+Save reset to defaults: Invalid save data
+]]></output>
+        </test-case>
+        <test-case id="1028" name="ThreeLevelsUseOneLoaderAndTheirData" fullname="DataAndSaveTests.ThreeLevelsUseOneLoaderAndTheirData" methodname="ThreeLevelsUseOneLoaderAndTheirData" classname="DataAndSaveTests" runstate="Runnable" seed="1826278678" result="Passed" start-time="2026-11-19 07:01:45Z" end-time="2026-11-19 07:01:47Z" duration="2.207147" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1029" name="ForestEncounterTests" fullname="ForestEncounterTests" classname="ForestEncounterTests" runstate="Runnable" testcasecount="4" result="Passed" start-time="2026-11-19 07:01:47Z" end-time="2026-11-19 07:01:52Z" duration="4.959252" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1030" name="GuardWarnsAndMissesWhenPlayerLeaves" fullname="ForestEncounterTests.GuardWarnsAndMissesWhenPlayerLeaves" methodname="GuardWarnsAndMissesWhenPlayerLeaves" classname="ForestEncounterTests" runstate="Runnable" seed="2019709725" result="Passed" start-time="2026-11-19 07:01:47Z" end-time="2026-11-19 07:01:48Z" duration="0.986105" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1032" name="MushroomFiresAlongItsWarningLine" fullname="ForestEncounterTests.MushroomFiresAlongItsWarningLine" methodname="MushroomFiresAlongItsWarningLine" classname="ForestEncounterTests" runstate="Runnable" seed="1983654704" result="Passed" start-time="2026-11-19 07:01:48Z" end-time="2026-11-19 07:01:50Z" duration="1.434542" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1033" name="SlimeCommitsToOneDirectionThenStops" fullname="ForestEncounterTests.SlimeCommitsToOneDirectionThenStops" methodname="SlimeCommitsToOneDirectionThenStops" classname="ForestEncounterTests" runstate="Runnable" seed="1235799874" result="Passed" start-time="2026-11-19 07:01:50Z" end-time="2026-11-19 07:01:51Z" duration="1.397182" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1031" name="WallsBlockSightAndOffscreenSlimeCannotDash" fullname="ForestEncounterTests.WallsBlockSightAndOffscreenSlimeCannotDash" methodname="WallsBlockSightAndOffscreenSlimeCannotDash" classname="ForestEncounterTests" runstate="Runnable" seed="512770706" result="Passed" start-time="2026-11-19 07:01:51Z" end-time="2026-11-19 07:01:52Z" duration="1.084930" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1034" name="GameplayTests" fullname="GameplayTests" classname="GameplayTests" runstate="Runnable" testcasecount="5" result="Passed" start-time="2026-11-19 07:01:52Z" end-time="2026-11-19 07:01:53Z" duration="1.195372" total="5" passed="5" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1037" name="ExitRequiresEveryCoin" fullname="GameplayTests.ExitRequiresEveryCoin" methodname="ExitRequiresEveryCoin" classname="GameplayTests" runstate="Runnable" seed="1949159726" result="Passed" start-time="2026-11-19 07:01:52Z" end-time="2026-11-19 07:01:53Z" duration="0.430603" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1035" name="FastBulletDamagesBossExactlyOnce" fullname="GameplayTests.FastBulletDamagesBossExactlyOnce" methodname="FastBulletDamagesBossExactlyOnce" classname="GameplayTests" runstate="Runnable" seed="1748042416" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:53Z" duration="0.119297" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+Boss HP: 2
+Boss HP: 2
+]]></output>
+        </test-case>
+        <test-case id="1039" name="MusicChangesAndGameplayIsQuieter" fullname="GameplayTests.MusicChangesAndGameplayIsQuieter" methodname="MusicChangesAndGameplayIsQuieter" classname="GameplayTests" runstate="Runnable" seed="621784824" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:53Z" duration="0.214919" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1038" name="RunningAndShootingAnimateTheVisualOnly" fullname="GameplayTests.RunningAndShootingAnimateTheVisualOnly" methodname="RunningAndShootingAnimateTheVisualOnly" classname="GameplayTests" runstate="Runnable" seed="856782323" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:53Z" duration="0.350079" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+        <test-case id="1036" name="VictoryWaitsForLastCoinAndPickupCannotCountTwice" fullname="GameplayTests.VictoryWaitsForLastCoinAndPickupCannotCountTwice" methodname="VictoryWaitsForLastCoinAndPickupCannotCountTwice" classname="GameplayTests" runstate="Runnable" seed="1374907700" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:53Z" duration="0.073425" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+]]></output>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1040" name="LevelHealthTests" fullname="LevelHealthTests" classname="LevelHealthTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:54Z" duration="1.028074" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1041" name="ActualEnemyHitsUpdateTheVisibleHealthCounter" fullname="LevelHealthTests.ActualEnemyHitsUpdateTheVisibleHealthCounter" methodname="ActualEnemyHitsUpdateTheVisibleHealthCounter" classname="LevelHealthTests" runstate="Runnable" seed="1841140894" result="Passed" start-time="2026-11-19 07:01:53Z" end-time="2026-11-19 07:01:54Z" duration="1.026777" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+Player HP: 2
+Player HP: 2
+Player healed! HP: 3
+Player healed! HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 2
+Player HP: 2
+Player healed! HP: 3
+Player healed! HP: 3
+Player HP: 3
+Player HP: 3
+Player HP: 2
+Player HP: 2
+Player healed! HP: 3
+Player healed! HP: 3
+]]></output>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1042" name="MobileTouchTests" fullname="MobileTouchTests" classname="MobileTouchTests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-11-19 07:01:54Z" end-time="2026-11-19 07:01:55Z" duration="0.865267" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <properties />
+        <test-case id="1043" name="TouchOpensLevelAndJoystickWorksWithSecondFinger" fullname="MobileTouchTests.TouchOpensLevelAndJoystickWorksWithSecondFinger" methodname="TouchOpensLevelAndJoystickWorksWithSecondFinger" classname="MobileTouchTests" runstate="Runnable" seed="1588226262" result="Passed" start-time="2026-11-19 07:01:54Z" end-time="2026-11-19 07:01:55Z" duration="0.863305" asserts="0">
+          <properties>
+            <property name="_JOINTYPE" value="UnityCombinatorial" />
+            <property name="retryIteration" value="0" />
+            <property name="repeatIteration" value="0" />
+          </properties>
+          <output><![CDATA[Player HP: 3
+Player HP: 3
+TOUCH_DIAGNOSTIC (92.38, 92.38) hits Knob,StickBG
+TOUCH_DIAGNOSTIC (92.38, 92.38) hits Knob,StickBG
+TOUCH_DIAGNOSTIC stick=(0.74, 0.00) gamepad=(0.74, 0.00) map=Player move=(0.74, 0.00)
+TOUCH_DIAGNOSTIC stick=(0.74, 0.00) gamepad=(0.74, 0.00) map=Player move=(0.74, 0.00)
+Saving results to: C:/Users/Сержан/AppData/LocalLow/DefaultCompany/ForestAdventure\TestResults.xml
+Saving results to: C:/Users/Сержан/AppData/LocalLow/DefaultCompany/ForestAdventure\TestResults.xml
+]]></output>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

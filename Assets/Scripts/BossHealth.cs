@@ -44,6 +44,8 @@ public class BossHealth : MonoBehaviour
         if (healthBar != null)
             healthBar.value = currentHealth;
 
+        SoundManager.Play(currentHealth > 0 ? Sfx.EnemyHit : Sfx.BossDeath);
+
         Debug.Log("Boss HP: " + currentHealth);
 
         if (currentHealth <= 0)

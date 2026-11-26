@@ -23,6 +23,10 @@ AudioMixerController:
     name: MusicVol
   - guid: f3cf90fad1220b26d358d77f1d715149
     name: SFXVol
+  - guid: 15135941c00cf02f169a81f61e4fb396
+    name: TracksVol
+  - guid: 8d8d356bcb4f81984fbdff9866172943
+    name: TracksCutoff
   m_AudioMixerGroupViews:
   - guids:
     - 306af95730253dcc514b302627c84984
